@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -22,4 +23,30 @@
       <a id="345512e1-aa1b-74ff-bfdd-ee4454405f64" href="345512e1-aa1b-74ff-bfdd-ee4454405f64.htm">_program</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="e20ba206-5517-5daa-55a1-c01b7dab4af0.htm">Method<wbr />Command</a>
+    </li>
+    <li>
+      <a href="b78e89f5-b47c-e18c-ec87-91a9ad4017a6.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2d85687d-2df6-b532-7d20-f13d3737f0bb" href="2d85687d-2df6-b532-7d20-f13d3737f0bb.htm">_method<wbr />Definition</a>
+    </li>
+    <li>
+      <a id="345512e1-aa1b-74ff-bfdd-ee4454405f64" href="345512e1-aa1b-74ff-bfdd-ee4454405f64.htm">_program</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

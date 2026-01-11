@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -22,4 +23,30 @@
       <a id="83b50410-296a-60a8-c309-fe2289d3f060" href="83b50410-296a-60a8-c309-fe2289d3f060.htm">My<wbr />Command<wbr />Factory(<wbr />ICanvas)</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="ab7cf04c-5534-c0f8-006e-d64e700fba0c.htm">My<wbr />Command<wbr />Factory</a>
+    </li>
+    <li>
+      <a href="b9f0d6a3-3f9a-ec14-8d39-084cd361481c.htm">Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="cd2a5109-a356-baa3-8940-4a787eabbf15" href="cd2a5109-a356-baa3-8940-4a787eabbf15.htm">My<wbr />Command<wbr />Factory</a>
+    </li>
+    <li>
+      <a id="83b50410-296a-60a8-c309-fe2289d3f060" href="83b50410-296a-60a8-c309-fe2289d3f060.htm">My<wbr />Command<wbr />Factory(<wbr />ICanvas)</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

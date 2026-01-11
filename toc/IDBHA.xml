@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -28,4 +29,36 @@
       <a id="ede4815f-d136-6e20-e996-7b6575c531fa" href="ede4815f-d136-6e20-e996-7b6575c531fa.htm">Set</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="443fc33d-6882-55db-47cc-d1d894734ef9.htm">Clear</a>
+    </li>
+    <li>
+      <a href="2b0c8822-bc15-9dc0-fd3c-8bf9f90081dd.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ad2b0741-3d00-8331-1870-b112813a8202" href="ad2b0741-3d00-8331-1870-b112813a8202.htm">Check<wbr />Parameters</a>
+    </li>
+    <li>
+      <a id="3987337a-b267-bd16-62d5-789c5ac88ad3" href="3987337a-b267-bd16-62d5-789c5ac88ad3.htm">Compile</a>
+    </li>
+    <li>
+      <a id="76428f16-c9ac-c52f-9b4c-f384602ff849" href="76428f16-c9ac-c52f-9b4c-f384602ff849.htm">Execute</a>
+    </li>
+    <li>
+      <a id="ede4815f-d136-6e20-e996-7b6575c531fa" href="ede4815f-d136-6e20-e996-7b6575c531fa.htm">Set</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

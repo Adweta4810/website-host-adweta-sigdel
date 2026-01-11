@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -31,4 +32,39 @@
       <a id="9e8c5a71-a92e-3f3b-1045-d836f5baadbe" href="9e8c5a71-a92e-3f3b-1045-d836f5baadbe.htm">Validate<wbr />Coordinates</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="4f1de6c3-3f89-2526-7317-16e19575caff.htm">Move<wbr />To<wbr />Command</a>
+    </li>
+    <li>
+      <a href="814e3309-4a6c-e703-9eec-eab865f0e62a.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2f69dea8-9c27-a4d1-fc44-a0a4d77ce363" href="2f69dea8-9c27-a4d1-fc44-a0a4d77ce363.htm">Check<wbr />Parameters</a>
+    </li>
+    <li>
+      <a id="53416f5e-7585-f238-e870-5d62c251bc2a" href="53416f5e-7585-f238-e870-5d62c251bc2a.htm">Compile</a>
+    </li>
+    <li>
+      <a id="cf6a2786-321b-5f3d-7ec5-0c4166fb78fd" href="cf6a2786-321b-5f3d-7ec5-0c4166fb78fd.htm">Execute</a>
+    </li>
+    <li>
+      <a id="93481b84-dc26-eac7-e0c3-3493f297cfaf" href="93481b84-dc26-eac7-e0c3-3493f297cfaf.htm">Set</a>
+    </li>
+    <li>
+      <a id="9e8c5a71-a92e-3f3b-1045-d836f5baadbe" href="9e8c5a71-a92e-3f3b-1045-d836f5baadbe.htm">Validate<wbr />Coordinates</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -83,4 +84,91 @@
       <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="5a7a02bd-377d-7ad4-4651-12b7a547c98e.htm">Array<wbr />Command</a>
+    </li>
+    <li>
+      <a href="0ac8aa4b-d53c-fe72-231c-2f6e726be297.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="0bfeda3a-a5ed-0d82-dc04-13b6de6eee51" href="0bfeda3a-a5ed-0d82-dc04-13b6de6eee51.htm">Array<wbr />Exists</a>
+    </li>
+    <li>
+      <a id="44804d50-2c4b-8f77-8763-1ded97874c05" href="44804d50-2c4b-8f77-8763-1ded97874c05.htm">Check<wbr />Parameters</a>
+    </li>
+    <li>
+      <a id="71df18e9-3ee8-c168-48fc-806cd08b5308" href="71df18e9-3ee8-c168-48fc-806cd08b5308.htm">Compile</a>
+    </li>
+    <li>
+      <a id="a421a1c9-3ada-23ef-56a7-11f1ce99d161" href="a421a1c9-3ada-23ef-56a7-11f1ce99d161.htm">Evaluate<wbr />Dimension</a>
+    </li>
+    <li>
+      <a id="fe3a7a22-e205-6d19-1bba-ddb4635fce44" href="fe3a7a22-e205-6d19-1bba-ddb4635fce44.htm">Execute</a>
+    </li>
+    <li>
+      <a id="105e6669-3867-17bb-a157-00276d4a190f" href="105e6669-3867-17bb-a157-00276d4a190f.htm">Get<wbr />Array<wbr />Dimensions</a>
+    </li>
+    <li>
+      <a id="fe25f8b7-bd85-9f7e-aff3-36e5fdbffe99" href="fe25f8b7-bd85-9f7e-aff3-36e5fdbffe99.htm">Get<wbr />Array<wbr />Type</a>
+    </li>
+    <li>
+      <a id="3df03a1d-5a00-ab4c-919e-b87bb979861c" href="3df03a1d-5a00-ab4c-919e-b87bb979861c.htm">Get<wbr />Array<wbr />Value</a>
+    </li>
+    <li>
+      <a id="4e87dbdf-3d52-3c3f-7fa5-a657a2eabf77" class="has-submenu" href="4e87dbdf-3d52-3c3f-7fa5-a657a2eabf77.htm">
+        <span data-tocFile="../toc/IDIDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Int<wbr />Array</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="a928897d-34ab-65a3-80eb-27485aba9717" href="a928897d-34ab-65a3-80eb-27485aba9717.htm">Get<wbr />Int<wbr />Array<wbr />Direct</a>
+    </li>
+    <li>
+      <a id="6d106455-15d4-41b6-4e90-aa3ac42bd87c" class="has-submenu" href="6d106455-15d4-41b6-4e90-aa3ac42bd87c.htm">
+        <span data-tocFile="../toc/IDKDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Real<wbr />Array</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fea036fc-27fd-8f26-e93e-1b87f4ec9072" href="fea036fc-27fd-8f26-e93e-1b87f4ec9072.htm">Get<wbr />Real<wbr />Array<wbr />Direct</a>
+    </li>
+    <li>
+      <a id="b64bedf9-f9d3-7012-3a86-3bc7fbd9fa47" href="b64bedf9-f9d3-7012-3a86-3bc7fbd9fa47.htm">Reset<wbr />Array<wbr />Count</a>
+    </li>
+    <li>
+      <a id="59ceca71-f2aa-4b02-4f20-f1929ba5c485" href="59ceca71-f2aa-4b02-4f20-f1929ba5c485.htm">Set</a>
+    </li>
+    <li>
+      <a id="80c8d878-5bec-4b9d-908e-dc6bc19edbd4" href="80c8d878-5bec-4b9d-908e-dc6bc19edbd4.htm">Set<wbr />Array<wbr />Value</a>
+    </li>
+    <li>
+      <a id="32094e91-9f4d-01d4-1970-c38a0f2f7bf9" class="has-submenu" href="32094e91-9f4d-01d4-1970-c38a0f2f7bf9.htm">
+        <span data-tocFile="../toc/IDPDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Int<wbr />Array</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1724fa95-802d-9bc4-8780-aceaeed5cee3" class="has-submenu" href="1724fa95-802d-9bc4-8780-aceaeed5cee3.htm">
+        <span data-tocFile="../toc/IDQDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Real<wbr />Array</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

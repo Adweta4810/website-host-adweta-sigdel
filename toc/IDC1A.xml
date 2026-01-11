@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -34,4 +35,42 @@
       <a id="c326d6d4-000a-766a-0d0b-e95741398f2e" href="c326d6d4-000a-766a-0d0b-e95741398f2e.htm">_width<wbr />Param</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="01e1a2bd-a023-5c64-c2b7-ca9825770b73.htm">Rectangle<wbr />Command</a>
+    </li>
+    <li>
+      <a href="39d55455-e3e6-74fe-e85a-b335bc0db95d.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="40c31cec-2db8-144f-807b-99569c21870d" href="40c31cec-2db8-144f-807b-99569c21870d.htm">_canvas</a>
+    </li>
+    <li>
+      <a id="886674c0-32c3-e849-f572-4f85b44d3d51" href="886674c0-32c3-e849-f572-4f85b44d3d51.htm">_height</a>
+    </li>
+    <li>
+      <a id="d43247e8-3c0f-fd4f-6bb0-3114b16b2d08" href="d43247e8-3c0f-fd4f-6bb0-3114b16b2d08.htm">_height<wbr />Param</a>
+    </li>
+    <li>
+      <a id="0dcb9d7a-9fef-c241-d925-b77567c1c790" href="0dcb9d7a-9fef-c241-d925-b77567c1c790.htm">_program</a>
+    </li>
+    <li>
+      <a id="1d2347e7-d5a9-ca71-2a16-349e8659d11e" href="1d2347e7-d5a9-ca71-2a16-349e8659d11e.htm">_width</a>
+    </li>
+    <li>
+      <a id="c326d6d4-000a-766a-0d0b-e95741398f2e" href="c326d6d4-000a-766a-0d0b-e95741398f2e.htm">_width<wbr />Param</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

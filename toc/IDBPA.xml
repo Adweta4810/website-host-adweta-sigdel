@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -40,4 +41,48 @@
       <a id="e01e76ac-e648-a1f4-b05c-333d1e6db175" href="e01e76ac-e648-a1f4-b05c-333d1e6db175.htm">Set</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="7873a012-2cc6-6f01-6568-fc259a8dafc5.htm">For<wbr />Command</a>
+    </li>
+    <li>
+      <a href="5d3deca1-d742-48b8-8623-e7f8bc0a8c77.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4192e92f-2639-d246-50bd-9bec5adada31" href="4192e92f-2639-d246-50bd-9bec5adada31.htm">Check<wbr />Parameters</a>
+    </li>
+    <li>
+      <a id="fa6bec8e-e43e-8ba3-c396-eca19b1c0f83" href="fa6bec8e-e43e-8ba3-c396-eca19b1c0f83.htm">Compile</a>
+    </li>
+    <li>
+      <a id="aaf879a5-9991-8ade-dc35-a8ebfdac1af5" href="aaf879a5-9991-8ade-dc35-a8ebfdac1af5.htm">Evaluate<wbr />Expression</a>
+    </li>
+    <li>
+      <a id="12d8c625-252d-aa3a-1667-657b7bba7135" href="12d8c625-252d-aa3a-1667-657b7bba7135.htm">Execute</a>
+    </li>
+    <li>
+      <a id="50acdb26-a5ab-eb4f-48e0-0d87e428f3dd" href="50acdb26-a5ab-eb4f-48e0-0d87e428f3dd.htm">Get<wbr />End<wbr />Expr</a>
+    </li>
+    <li>
+      <a id="7fe2a25c-6fa5-3e69-b146-e1cd4dad59d1" href="7fe2a25c-6fa5-3e69-b146-e1cd4dad59d1.htm">Get<wbr />Loop<wbr />Variable</a>
+    </li>
+    <li>
+      <a id="c7544c2d-cb6c-d7ef-2d3d-1eafbf1fd151" href="c7544c2d-cb6c-d7ef-2d3d-1eafbf1fd151.htm">Get<wbr />Step<wbr />Expr</a>
+    </li>
+    <li>
+      <a id="e01e76ac-e648-a1f4-b05c-333d1e6db175" href="e01e76ac-e648-a1f4-b05c-333d1e6db175.htm">Set</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

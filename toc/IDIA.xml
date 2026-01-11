@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -30,4 +31,38 @@
       <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="4e2e29a2-2e9d-d78b-39e5-47b39b563853.htm">Else<wbr />Command</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2f630a20-f19f-04a6-17e8-05bc80725796" href="2f630a20-f19f-04a6-17e8-05bc80725796.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="40b50072-77d1-08d2-cbde-3a1e64149b29" class="has-submenu" href="40b50072-77d1-08d2-cbde-3a1e64149b29.htm">
+        <span data-tocFile="../toc/IDBIA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f7a88331-62d7-6bf9-b4a4-e65b4791ab5e" class="has-submenu" href="f7a88331-62d7-6bf9-b4a4-e65b4791ab5e.htm">
+        <span data-tocFile="../toc/IDCIA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

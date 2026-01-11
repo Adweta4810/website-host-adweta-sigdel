@@ -1,0 +1,257 @@
+﻿<!DOCTYPE html >
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" href="../css/bulma.css" />
+    <link rel="stylesheet" href="../css/font-awesome.min.css" />
+    <link rel="stylesheet" href="../css/presentationStyle.css" />
+    <link rel="stylesheet" href="../css/vs.min.css" />
+    <script src="../scripts/jquery-3.5.1.min.js"></script>
+    <script src="../scripts/clipboard.min.js"></script>
+    <script src="../scripts/highlight.min.js"></script>
+    <script src="../scripts/presentationStyle.js"></script>
+    <title>WriteCommand Class</title>
+    <meta name="Title" content="WriteCommand" />
+    <meta name="Help.Id" content="T:BOOSEApp.WriteCommand" />
+    <meta name="Help.ContentType" content="Reference" />
+    <meta name="container" content="BOOSEApp" />
+    <meta name="guid" content="a03efc86-8287-981a-3213-d97f8e890203" />
+    <meta name="Description" content="Represents the write command in the BOOSE language. This command outputs text to the canvas or application output area, allowing messages, variable values, and program feedback to be displayed." />
+    <meta name="tocFile" content="../toc/IDA.xml" />
+  </head>
+  <body>
+    <div class="fixedLayout">
+      <div id="Header" class="fixedHeader">
+        <div class="pageHeader level mb-0 py-2 px-4">
+          <div id="TitleContainer" class="level-left">
+            <div id="DocumentationTitle" class="level-item">A Sandcastle Documented Class Library</div>
+          </div>
+          <div id="LangFilterSearchContainer" class="level-right">
+            <div class="level-item">
+              <div class="dropdown is-hoverable">
+                <div class="dropdown-trigger">
+                  <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+                    <span id="CurrentLanguage"></span>
+                    <span class="icon is-small">
+                      <i class="fa fa-angle-down" aria-hidden="true"></i>
+                    </span>
+                  </button>
+                </div>
+                <div class="dropdown-menu" role="menu">
+                  <div id="LanguageSelections" class="dropdown-content">
+                    <a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="asp">ASP.NET</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="level-item">
+              <form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;">
+                <div class="field">
+                  <div class="control has-icons-left">
+                    <input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" />
+                    <span class="icon is-small is-left">
+                      <i class="fa fa-search"></i>
+                    </span>
+                    <button id="SearchButton" type="submit" class="is-hidden"></button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fixedContent">
+        <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
+          <ul id="TopicBreadcrumbs" />
+        </nav>
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
+          <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
+            <a id="ShowHideTOC">Show/Hide TOC</a>
+          </div>
+          <div id="TOCColumn" class="column is-hidden-mobile">
+            <nav class="toc">
+              <ul id="TableOfContents" class="toc-menu" />
+            </nav>
+          </div>
+          <div id="Resizer" class="is-hidden"></div>
+          <div id="TopicContent" class="column content is-7">
+            <h1>Write<wbr />Command Class</h1>
+            <div class="summary">
+            Represents the <span class="code">write</span> command in the BOOSE language.
+            This command outputs text to the canvas or application output area,
+            allowing messages, variable values, and program feedback to be displayed.
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Definition</h2>
+            <div id="IDBSection">
+              <strong>Namespace:</strong> <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a><br /><strong>Assembly:</strong> BOOSEApp (in BOOSEApp.exe) Version: 1.0.0+38cb9956f98ba9aed1f0dcaeccf24daba950a264<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">WriteCommand</span> : <span class="identifier">ICommand</span></code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">WriteCommand</span></dd></dl><dl class="implementsList"><dt>Implements</dt><dd><span class="noLink">ICommand</span></dd></dl></div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Constructors</h2>
+            <div id="IDDFASection">
+              <table id="ConstructorList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="0ca3aa77-c9b1-5310-a9c5-66ea8cbdf9e5.htm">WriteCommand</a>
+                  </td>
+                  <td>
+            Initializes a new instance of the AppWrite class with a canvas reference.
+            </td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Methods</h2>
+            <div id="IDEFASection">
+              <table id="MethodList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="8be0051b-f023-7ed4-7e3c-df49e0c5e0e8.htm">CheckParameters</a>
+                  </td>
+                  <td>
+            Validates that the Write command receives at least one parameter (the expression).
+            The expression can be a literal number, a variable name, or an arithmetic expression.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="296a9ed3-8d45-d716-15c5-0c1ed7e6ee4a.htm">Compile</a>
+                  </td>
+                  <td>
+            Compiles the Write command. No compilation is needed for write commands.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="eee3a8ef-e87b-0489-8907-909a03b84e53.htm">EvaluateExpression</a>
+                  </td>
+                  <td>
+            Evaluates an expression that may contain variables and arithmetic operators.
+            Also supports string concatenation with the + operator (e.g., "prefix" + variable).
+            Supports operators: +, -, *, /, % with standard precedence.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="7ba06443-09c9-adb6-a8c1-97becef58edf.htm">EvaluateStringExpression</a>
+                  </td>
+                  <td>
+            Evaluates string concatenation expressions with the + operator.
+            Supports mixing string literals (in quotes) with variable references.
+            Example: "prefix" + variable + "suffix"
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="f7d907e0-e304-784f-32f1-9260e8c9c46d.htm">Execute</a>
+                  </td>
+                  <td>
+            Executes the Write command by evaluating the expression and writing the result to the canvas.
+            Evaluates expressions at execution time to support variable changes.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="126f4c19-6eaa-63ec-95af-bf62fefd25ec.htm">Set</a>
+                  </td>
+                  <td>
+            Sets up the Write command with the program context and parameters.
+            Handles both literal values and expressions with variables.
+            </td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Fields</h2>
+            <div id="IDAFASection">
+              <table id="FieldList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="8b7c2cd4-135a-c527-7997-81610e5abedf.htm">_canvas</a>
+                  </td>
+                  <td>
+            The canvas instance on which the text will be written.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="0b140866-97eb-d3d7-0ca2-491c5d6edc3d.htm">_expression</a>
+                  </td>
+                  <td>
+            The expression string to evaluate and write (may contain variables and arithmetic operations).
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="048f96db-235e-d60f-235c-0476a16c4823.htm">_program</a>
+                  </td>
+                  <td>
+            The stored program context used to evaluate variable expressions.
+            </td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>See Also</h2>
+            <div id="seeAlsoSection">
+              <h4>Reference</h4>
+              <div>
+                <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp Namespace</a>
+              </div>
+            </div>
+          </div>
+          <div id="InThisArticleColumn" class="column is-hidden-mobile">
+            <nav class="menu sticky is-hidden">
+              <p class="menu-label">
+                <strong>In This Article</strong>
+              </p>
+              <ul id="InThisArticleMenu" class="menu-list">
+                <li>
+                  <a class="quickLink">Definition</a>
+                </li>
+                <li>
+                  <a class="quickLink">Constructors</a>
+                </li>
+                <li>
+                  <a class="quickLink">Methods</a>
+                </li>
+                <li>
+                  <a class="quickLink">Fields</a>
+                </li>
+                <li>
+                  <a class="quickLink">See Also</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>$(function(){
+SetDefaultLanguage("cs");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+hljs.highlightAll();
+});</script>
+  </body>
+</html>

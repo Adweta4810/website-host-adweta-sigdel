@@ -1,0 +1,269 @@
+﻿<!DOCTYPE html >
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" href="../css/bulma.css" />
+    <link rel="stylesheet" href="../css/font-awesome.min.css" />
+    <link rel="stylesheet" href="../css/presentationStyle.css" />
+    <link rel="stylesheet" href="../css/vs.min.css" />
+    <script src="../scripts/jquery-3.5.1.min.js"></script>
+    <script src="../scripts/clipboard.min.js"></script>
+    <script src="../scripts/highlight.min.js"></script>
+    <script src="../scripts/presentationStyle.js"></script>
+    <title>MoveToCommand Class</title>
+    <meta name="Title" content="MoveToCommand" />
+    <meta name="Help.Id" content="T:BOOSEApp.MoveToCommand" />
+    <meta name="Help.ContentType" content="Reference" />
+    <meta name="container" content="BOOSEApp" />
+    <meta name="guid" content="4f1de6c3-3f89-2526-7317-16e19575caff" />
+    <meta name="Description" content="Represents the moveto drawing command in the BOOSE language. This command moves the pen to a new absolute position on the canvas without drawing a line." />
+    <meta name="tocFile" content="../toc/IDA.xml" />
+  </head>
+  <body>
+    <div class="fixedLayout">
+      <div id="Header" class="fixedHeader">
+        <div class="pageHeader level mb-0 py-2 px-4">
+          <div id="TitleContainer" class="level-left">
+            <div id="DocumentationTitle" class="level-item">A Sandcastle Documented Class Library</div>
+          </div>
+          <div id="LangFilterSearchContainer" class="level-right">
+            <div class="level-item">
+              <div class="dropdown is-hoverable">
+                <div class="dropdown-trigger">
+                  <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+                    <span id="CurrentLanguage"></span>
+                    <span class="icon is-small">
+                      <i class="fa fa-angle-down" aria-hidden="true"></i>
+                    </span>
+                  </button>
+                </div>
+                <div class="dropdown-menu" role="menu">
+                  <div id="LanguageSelections" class="dropdown-content">
+                    <a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="asp">ASP.NET</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="level-item">
+              <form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;">
+                <div class="field">
+                  <div class="control has-icons-left">
+                    <input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" />
+                    <span class="icon is-small is-left">
+                      <i class="fa fa-search"></i>
+                    </span>
+                    <button id="SearchButton" type="submit" class="is-hidden"></button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fixedContent">
+        <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
+          <ul id="TopicBreadcrumbs" />
+        </nav>
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
+          <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
+            <a id="ShowHideTOC">Show/Hide TOC</a>
+          </div>
+          <div id="TOCColumn" class="column is-hidden-mobile">
+            <nav class="toc">
+              <ul id="TableOfContents" class="toc-menu" />
+            </nav>
+          </div>
+          <div id="Resizer" class="is-hidden"></div>
+          <div id="TopicContent" class="column content is-7">
+            <h1>Move<wbr />To<wbr />Command Class</h1>
+            <div class="summary">
+            Represents the <span class="code">moveto</span> drawing command in the BOOSE language.
+            This command moves the pen to a new absolute position on the canvas
+            without drawing a line.
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Definition</h2>
+            <div id="IDBSection">
+              <strong>Namespace:</strong> <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a><br /><strong>Assembly:</strong> BOOSEApp (in BOOSEApp.exe) Version: 1.0.0+38cb9956f98ba9aed1f0dcaeccf24daba950a264<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">MoveToCommand</span> : <span class="identifier">ICommand</span></code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">MoveToCommand</span></dd></dl><dl class="implementsList"><dt>Implements</dt><dd><span class="noLink">ICommand</span></dd></dl></div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Constructors</h2>
+            <div id="IDGFASection">
+              <table id="ConstructorList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="ba4e1012-b8d0-dba8-04cb-ada6ee377bfa.htm">MoveToCommand</a>
+                  </td>
+                  <td>
+            Initializes a new instance of the AppMoveto class with a canvas reference.
+            </td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Methods</h2>
+            <div id="IDHFASection">
+              <table id="MethodList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="2f69dea8-9c27-a4d1-fc44-a0a4d77ce363.htm">CheckParameters</a>
+                  </td>
+                  <td>
+            Validates that the MoveTo command receives exactly two parameters (X and Y coordinates).
+            The coordinates can be literal numbers or variable names.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="53416f5e-7585-f238-e870-5d62c251bc2a.htm">Compile</a>
+                  </td>
+                  <td>
+            Compiles the MoveTo command. No compilation is needed for simple drawing commands.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="cf6a2786-321b-5f3d-7ec5-0c4166fb78fd.htm">Execute</a>
+                  </td>
+                  <td>
+            Executes the MoveTo command by updating the pen position without drawing.
+            Re-evaluates coordinates at execution time to support variable changes.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="93481b84-dc26-eac7-e0c3-3493f297cfaf.htm">Set</a>
+                  </td>
+                  <td>
+            Sets up the MoveTo command with parameters and performs validation.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="9e8c5a71-a92e-3f3b-1045-d836f5baadbe.htm">ValidateCoordinates</a>
+                  </td>
+                  <td>
+            Validates and evaluates the coordinate parameters.
+            Handles both literal numbers and variable references.
+            </td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Fields</h2>
+            <div id="IDAFASection">
+              <table id="FieldList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="878724dd-fdaf-96c6-b13a-fa9d16ab9108.htm">_canvas</a>
+                  </td>
+                  <td>
+            The canvas instance on which the pen position will be updated.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="f796c042-37a5-53c9-d52e-8e825bf77ed9.htm">_program</a>
+                  </td>
+                  <td>
+            The stored program context used to evaluate variable expressions.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="2c196b63-4a79-1434-564e-944912fca335.htm">_x</a>
+                  </td>
+                  <td>
+            The X coordinate to move the pen to.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="bff95d5f-fc73-c9e2-84d2-6cc841add6e4.htm">_xParam</a>
+                  </td>
+                  <td>
+            The X coordinate parameter string (may contain variable names).
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="8c6aeccd-3778-9f32-bfaf-229aafb6bc94.htm">_y</a>
+                  </td>
+                  <td>
+            The Y coordinate to move the pen to.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="9bead4d4-3785-3f13-a7c6-6557cc86402a.htm">_yParam</a>
+                  </td>
+                  <td>
+            The Y coordinate parameter string (may contain variable names).
+            </td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>See Also</h2>
+            <div id="seeAlsoSection">
+              <h4>Reference</h4>
+              <div>
+                <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp Namespace</a>
+              </div>
+            </div>
+          </div>
+          <div id="InThisArticleColumn" class="column is-hidden-mobile">
+            <nav class="menu sticky is-hidden">
+              <p class="menu-label">
+                <strong>In This Article</strong>
+              </p>
+              <ul id="InThisArticleMenu" class="menu-list">
+                <li>
+                  <a class="quickLink">Definition</a>
+                </li>
+                <li>
+                  <a class="quickLink">Constructors</a>
+                </li>
+                <li>
+                  <a class="quickLink">Methods</a>
+                </li>
+                <li>
+                  <a class="quickLink">Fields</a>
+                </li>
+                <li>
+                  <a class="quickLink">See Also</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>$(function(){
+SetDefaultLanguage("cs");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+hljs.highlightAll();
+});</script>
+  </body>
+</html>

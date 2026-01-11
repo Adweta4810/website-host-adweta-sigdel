@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -34,4 +35,42 @@
       <a id="b1f3477c-0463-c445-682c-c40809af0d6f" href="b1f3477c-0463-c445-682c-c40809af0d6f.htm">Start<wbr />Line</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="71e5f85b-3944-a797-9892-2e601993de4d.htm">Method<wbr />Definition</a>
+    </li>
+    <li>
+      <a href="14f67973-03fd-0534-cbe6-2fe40496145c.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f8210da9-d0f8-70c4-13dc-2f0b26735e04" href="f8210da9-d0f8-70c4-13dc-2f0b26735e04.htm">End<wbr />Line</a>
+    </li>
+    <li>
+      <a id="8981d751-baab-30cd-27e8-0bf2d296c9ff" href="8981d751-baab-30cd-27e8-0bf2d296c9ff.htm">Method<wbr />Name</a>
+    </li>
+    <li>
+      <a id="905afa8b-9623-846b-b454-48bbdb1d3ed1" href="905afa8b-9623-846b-b454-48bbdb1d3ed1.htm">Parameters</a>
+    </li>
+    <li>
+      <a id="bacf1b54-9ab0-5388-7d4b-59095fbc7c7a" href="bacf1b54-9ab0-5388-7d4b-59095fbc7c7a.htm">Return<wbr />Type</a>
+    </li>
+    <li>
+      <a id="0d8a88f5-84b1-2986-963b-304fdede2437" href="0d8a88f5-84b1-2986-963b-304fdede2437.htm">Return<wbr />Value</a>
+    </li>
+    <li>
+      <a id="b1f3477c-0463-c445-682c-c40809af0d6f" href="b1f3477c-0463-c445-682c-c40809af0d6f.htm">Start<wbr />Line</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

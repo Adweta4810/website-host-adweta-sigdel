@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -36,4 +37,44 @@
       <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="5a7a02bd-377d-7ad4-4651-12b7a547c98e.htm">Array<wbr />Command</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="95f21bba-cdd5-bb63-c5e7-e6d465ae1507" href="95f21bba-cdd5-bb63-c5e7-e6d465ae1507.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="0ebb1800-74be-8d25-1968-a007e2675684" href="0ebb1800-74be-8d25-1968-a007e2675684.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="96472ce7-c9c8-8d9e-7ae0-c64a4940039f" href="96472ce7-c9c8-8d9e-7ae0-c64a4940039f.htm">Properties</a>
+    </li>
+    <li>
+      <a id="0ac8aa4b-d53c-fe72-231c-2f6e726be297" class="has-submenu" href="0ac8aa4b-d53c-fe72-231c-2f6e726be297.htm">
+        <span data-tocFile="../toc/IDDCA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="92d7a718-8ff9-c6c6-3108-ff135200af2a" class="has-submenu" href="92d7a718-8ff9-c6c6-3108-ff135200af2a.htm">
+        <span data-tocFile="../toc/IDECA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

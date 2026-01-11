@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -34,4 +35,42 @@
       <a id="25661a6d-f6d1-9bef-a0c8-634d96cdf42e" href="25661a6d-f6d1-9bef-a0c8-634d96cdf42e.htm">Should<wbr />Skip<wbr />Execution</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="ce47a3ab-a556-2c9f-8164-239c84e3d2c8.htm">Execution<wbr />State<wbr />Manager</a>
+    </li>
+    <li>
+      <a href="30113739-5f14-dca0-949c-92e7fd08670d.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3f376238-ca30-d87f-a922-b3d81277664e" href="3f376238-ca30-d87f-a922-b3d81277664e.htm">Get<wbr />Depth</a>
+    </li>
+    <li>
+      <a id="1c039a75-f1c7-57b9-dc7e-2c541dd3c2b1" href="1c039a75-f1c7-57b9-dc7e-2c541dd3c2b1.htm">Handle<wbr />Else</a>
+    </li>
+    <li>
+      <a id="cb1ab984-1c79-a8eb-6ace-8216f76c9b4c" href="cb1ab984-1c79-a8eb-6ace-8216f76c9b4c.htm">Pop<wbr />Context</a>
+    </li>
+    <li>
+      <a id="efc330b1-6bb7-7dc8-6991-c8e96df69118" href="efc330b1-6bb7-7dc8-6991-c8e96df69118.htm">Push<wbr />Context</a>
+    </li>
+    <li>
+      <a id="d12cc328-665a-fb4c-ea93-b215df7dfd80" href="d12cc328-665a-fb4c-ea93-b215df7dfd80.htm">Reset</a>
+    </li>
+    <li>
+      <a id="25661a6d-f6d1-9bef-a0c8-634d96cdf42e" href="25661a6d-f6d1-9bef-a0c8-634d96cdf42e.htm">Should<wbr />Skip<wbr />Execution</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

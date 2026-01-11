@@ -1,0 +1,242 @@
+﻿<!DOCTYPE html >
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" href="../css/bulma.css" />
+    <link rel="stylesheet" href="../css/font-awesome.min.css" />
+    <link rel="stylesheet" href="../css/presentationStyle.css" />
+    <link rel="stylesheet" href="../css/vs.min.css" />
+    <script src="../scripts/jquery-3.5.1.min.js"></script>
+    <script src="../scripts/clipboard.min.js"></script>
+    <script src="../scripts/highlight.min.js"></script>
+    <script src="../scripts/presentationStyle.js"></script>
+    <title>MyCommandFactory Class</title>
+    <meta name="Title" content="MyCommandFactory" />
+    <meta name="Help.Id" content="T:BOOSEApp.MyCommandFactory" />
+    <meta name="Help.ContentType" content="Reference" />
+    <meta name="container" content="BOOSEApp" />
+    <meta name="guid" content="ab7cf04c-5534-c0f8-006e-d64e700fba0c" />
+    <meta name="Description" content="Factory class for creating BOOSE command instances. Implements the Factory design pattern by extending to provide creation of custom commands (Clear, Reset, Circle, MoveTo, Rectangle) while delegating other commands to the base factory." />
+    <meta name="tocFile" content="../toc/IDA.xml" />
+  </head>
+  <body>
+    <div class="fixedLayout">
+      <div id="Header" class="fixedHeader">
+        <div class="pageHeader level mb-0 py-2 px-4">
+          <div id="TitleContainer" class="level-left">
+            <div id="DocumentationTitle" class="level-item">A Sandcastle Documented Class Library</div>
+          </div>
+          <div id="LangFilterSearchContainer" class="level-right">
+            <div class="level-item">
+              <div class="dropdown is-hoverable">
+                <div class="dropdown-trigger">
+                  <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+                    <span id="CurrentLanguage"></span>
+                    <span class="icon is-small">
+                      <i class="fa fa-angle-down" aria-hidden="true"></i>
+                    </span>
+                  </button>
+                </div>
+                <div class="dropdown-menu" role="menu">
+                  <div id="LanguageSelections" class="dropdown-content">
+                    <a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="asp">ASP.NET</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="level-item">
+              <form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;">
+                <div class="field">
+                  <div class="control has-icons-left">
+                    <input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" />
+                    <span class="icon is-small is-left">
+                      <i class="fa fa-search"></i>
+                    </span>
+                    <button id="SearchButton" type="submit" class="is-hidden"></button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fixedContent">
+        <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
+          <ul id="TopicBreadcrumbs" />
+        </nav>
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
+          <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
+            <a id="ShowHideTOC">Show/Hide TOC</a>
+          </div>
+          <div id="TOCColumn" class="column is-hidden-mobile">
+            <nav class="toc">
+              <ul id="TableOfContents" class="toc-menu" />
+            </nav>
+          </div>
+          <div id="Resizer" class="is-hidden"></div>
+          <div id="TopicContent" class="column content is-7">
+            <h1>My<wbr />Command<wbr />Factory Class</h1>
+            <div class="summary">
+            Factory class for creating BOOSE command instances.
+            Implements the Factory design pattern by extending <span class="noLink">CommandFactory</span> to provide
+            creation of custom commands (Clear, Reset, Circle, MoveTo, Rectangle) while delegating other commands to the base factory.
+            Uses the singleton pattern to ensure a single factory instance throughout the application.
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Definition</h2>
+            <div id="IDBSection">
+              <strong>Namespace:</strong> <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a><br /><strong>Assembly:</strong> BOOSEApp (in BOOSEApp.exe) Version: 1.0.0+38cb9956f98ba9aed1f0dcaeccf24daba950a264<div class="codeSnippet"><div class="codeHeader"><span class="codeHeaderTitle">C#</span><span class="buttons"><button class="button is-small is-light copyCode" title="Copy"><span class="icon is-small"><i class="fa fa-copy"></i></span><span>Copy</span></button></span></div><div class="codePanel hljs"><pre xml:space="preserve"><code class="language-cs"><span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">MyCommandFactory</span> : <span class="identifier">CommandFactory</span></code></pre></div></div><dl class="inheritanceHierarchy"><dt>Inheritance</dt><dd><a href="https://learn.microsoft.com/dotnet/api/system.object" target="_blank" rel="noopener noreferrer">Object</a>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="noLink">CommandFactory</span>  <span class="icon is-small"><i class="fa fa-arrow-right"></i></span>  <span class="selflink">MyCommandFactory</span></dd></dl></div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Remarks</h2>
+            <div id="IDBCSection">
+            This factory maintains a reference to an <span class="noLink">ICanvas</span> instance that is used to initialize
+            all created commands. Custom commands are checked first before delegating to the base factory
+            for built-in BOOSE commands.
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Constructors</h2>
+            <div id="IDACEASection">
+              <table id="ConstructorList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="cd2a5109-a356-baa3-8940-4a787eabbf15.htm">MyCommandFactory<span id="LST834FE4D7_0" data-languageSpecificText="cs=()|vb=|cpp=()|nu=()|fs=()"></span></a>
+                  </td>
+                  <td>Initializes a new instance of the <span class="selflink">MyCommandFactory</span> class</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="83b50410-296a-60a8-c309-fe2289d3f060.htm">MyCommandFactory(ICanvas)</a>
+                  </td>
+                  <td>
+            Initializes a new instance of the <span class="selflink">MyCommandFactory</span> class.
+            </td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Methods</h2>
+            <div id="IDDEASection">
+              <table id="MethodList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="9e14962d-e33a-071d-be61-128ad0190b58.htm">Instance</a>
+                  </td>
+                  <td>
+            Gets the singleton instance of <span class="selflink">MyCommandFactory</span>.
+            Creates a new instance on the first call; subsequent calls return the existing instance.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="c693ddc0-acca-6ee9-1dcf-72c9d686b258.htm">IsLikelyVariableName</a>
+                  </td>
+                  <td>
+            Determines if a command name looks like it could be a variable name rather than a BOOSE command.
+            This helps avoid unnecessary calls to the base factory for likely variable references.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="f105ada5-a9e9-894d-c308-453012f5ea9a.htm">MakeCommand</a>
+                  </td>
+                  <td>
+            Creates and returns a command instance of the specified type.
+            Attempts to create custom commands (Clear, Reset, Circle, MoveTo, Rectangle, Int, Real, Array, Write, Poke, Peek, If, Else, Endif, While, Endwhile) first, then delegates to the base factory
+            for built-in BOOSE commands. Also handles variable assignments by treating them as Int commands.
+            <br />(Overrides <span class="noLink">CommandFactory.MakeCommand(String)</span>)</td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Fields</h2>
+            <div id="IDAEASection">
+              <table id="FieldList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="f8cd03a0-f99b-20fb-bacb-3706521eb228.htm">_canvas</a>
+                  </td>
+                  <td>
+            The canvas instance used by all created commands to perform drawing operations.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="82b28d99-7d74-1357-cc1f-a1ab0205d00a.htm">_instance</a>
+                  </td>
+                  <td>
+            Singleton instance of MyCommandFactory.
+            Ensures only one factory instance exists per application lifetime.
+            </td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>See Also</h2>
+            <div id="seeAlsoSection">
+              <h4>Reference</h4>
+              <div>
+                <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp Namespace</a>
+              </div>
+            </div>
+          </div>
+          <div id="InThisArticleColumn" class="column is-hidden-mobile">
+            <nav class="menu sticky is-hidden">
+              <p class="menu-label">
+                <strong>In This Article</strong>
+              </p>
+              <ul id="InThisArticleMenu" class="menu-list">
+                <li>
+                  <a class="quickLink">Definition</a>
+                </li>
+                <li>
+                  <a class="quickLink">Remarks</a>
+                </li>
+                <li>
+                  <a class="quickLink">Constructors</a>
+                </li>
+                <li>
+                  <a class="quickLink">Methods</a>
+                </li>
+                <li>
+                  <a class="quickLink">Fields</a>
+                </li>
+                <li>
+                  <a class="quickLink">See Also</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>$(function(){
+SetDefaultLanguage("cs");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+hljs.highlightAll();
+});</script>
+  </body>
+</html>

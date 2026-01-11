@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -46,4 +47,54 @@
       <a id="574111d4-2eba-9ebe-6121-21292af3f3d9" href="574111d4-2eba-9ebe-6121-21292af3f3d9.htm">Try<wbr />Get<wbr />Real<wbr />Variable</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="2e6e071c-e827-1016-ee34-98e94b82c37f.htm">Real<wbr />Command</a>
+    </li>
+    <li>
+      <a href="4a77c9d1-3a22-a473-9f18-b9f2abf1c450.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ac1f42dc-f6c8-17ed-648e-da16ca7d3d29" href="ac1f42dc-f6c8-17ed-648e-da16ca7d3d29.htm">Check<wbr />Parameters</a>
+    </li>
+    <li>
+      <a id="4af6a95d-a626-e26e-f5f1-a6331ade9222" href="4af6a95d-a626-e26e-f5f1-a6331ade9222.htm">Compile</a>
+    </li>
+    <li>
+      <a id="bfe7557e-43ee-3cb8-e97a-8953934d09a4" href="bfe7557e-43ee-3cb8-e97a-8953934d09a4.htm">Evaluate<wbr />Arithmetic<wbr />Expression</a>
+    </li>
+    <li>
+      <a id="c3858d90-9855-7898-b032-98137d0a62c0" href="c3858d90-9855-7898-b032-98137d0a62c0.htm">Execute</a>
+    </li>
+    <li>
+      <a id="97ffa366-c333-22bc-15db-c366bbce1c03" href="97ffa366-c333-22bc-15db-c366bbce1c03.htm">Reset<wbr />Variable<wbr />Count</a>
+    </li>
+    <li>
+      <a id="3be26321-d8e9-3672-d7b0-e39b06c2c20a" href="3be26321-d8e9-3672-d7b0-e39b06c2c20a.htm">Restrictions</a>
+    </li>
+    <li>
+      <a id="0a9d6f62-f9e3-59f1-3b28-2decdea18670" href="0a9d6f62-f9e3-59f1-3b28-2decdea18670.htm">Set</a>
+    </li>
+    <li>
+      <a id="56079f1a-e1e5-f7fe-7b0c-e50aa4bde55b" href="56079f1a-e1e5-f7fe-7b0c-e50aa4bde55b.htm">Set<wbr />Real<wbr />Variable</a>
+    </li>
+    <li>
+      <a id="1f1570e2-c111-ab50-4192-d3de0141b135" href="1f1570e2-c111-ab50-4192-d3de0141b135.htm">Set<wbr />Variable<wbr />Name</a>
+    </li>
+    <li>
+      <a id="574111d4-2eba-9ebe-6121-21292af3f3d9" href="574111d4-2eba-9ebe-6121-21292af3f3d9.htm">Try<wbr />Get<wbr />Real<wbr />Variable</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

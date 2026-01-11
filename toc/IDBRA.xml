@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -43,4 +44,51 @@
       <a id="de17b74b-6228-69a2-98ae-6d3ae6c5b153" href="de17b74b-6228-69a2-98ae-6d3ae6c5b153.htm">Set<wbr />Variable<wbr />Name</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="b51059db-07ab-956e-a5ea-3f880d419284.htm">Int<wbr />Command</a>
+    </li>
+    <li>
+      <a href="c262cec2-dfaf-5231-85fe-39924f3c6e2f.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="9ad6d52c-0eb7-aa42-5ef5-50f38ef1bbb1" href="9ad6d52c-0eb7-aa42-5ef5-50f38ef1bbb1.htm">Check<wbr />Parameters</a>
+    </li>
+    <li>
+      <a id="b938261d-40c4-07d6-3708-74aba5a155f7" href="b938261d-40c4-07d6-3708-74aba5a155f7.htm">Compile</a>
+    </li>
+    <li>
+      <a id="7a7b7a62-fe52-c3c5-7700-42a20472b14c" href="7a7b7a62-fe52-c3c5-7700-42a20472b14c.htm">Evaluate<wbr />Arithmetic<wbr />Expression</a>
+    </li>
+    <li>
+      <a id="50ef1a69-8882-87e8-4924-12d39cf2077b" href="50ef1a69-8882-87e8-4924-12d39cf2077b.htm">Execute</a>
+    </li>
+    <li>
+      <a id="e231d75d-dd96-77b5-ba07-4a11faac60a7" href="e231d75d-dd96-77b5-ba07-4a11faac60a7.htm">Reset<wbr />Variable<wbr />Count</a>
+    </li>
+    <li>
+      <a id="efc5083c-cafb-b712-03a9-47634a73bf64" href="efc5083c-cafb-b712-03a9-47634a73bf64.htm">Restrictions</a>
+    </li>
+    <li>
+      <a id="7f60292c-d8bf-d216-639f-e778ff1381d2" href="7f60292c-d8bf-d216-639f-e778ff1381d2.htm">Set</a>
+    </li>
+    <li>
+      <a id="65630920-1fe4-2204-a346-6480ec41d643" href="65630920-1fe4-2204-a346-6480ec41d643.htm">Set<wbr />Local<wbr />Scope</a>
+    </li>
+    <li>
+      <a id="de17b74b-6228-69a2-98ae-6d3ae6c5b153" href="de17b74b-6228-69a2-98ae-6d3ae6c5b153.htm">Set<wbr />Variable<wbr />Name</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

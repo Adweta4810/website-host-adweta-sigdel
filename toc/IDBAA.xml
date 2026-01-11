@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -31,4 +32,39 @@
       <a id="f09da86c-34ae-50ea-38cc-9d02e0cd1fc6" href="f09da86c-34ae-50ea-38cc-9d02e0cd1fc6.htm">Ypos</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="a38dc689-9881-ba25-77e0-773d9555bb39.htm">App<wbr />Canvas</a>
+    </li>
+    <li>
+      <a href="fe0b9a8e-70d7-d24b-02b7-e112013b73ec.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="cc374cdd-4e73-e671-d401-68ede02474b4" href="cc374cdd-4e73-e671-d401-68ede02474b4.htm">Fill</a>
+    </li>
+    <li>
+      <a id="66c25ccf-5b9a-6bbc-1472-49f2b7392007" href="66c25ccf-5b9a-6bbc-1472-49f2b7392007.htm">Pen<wbr />Colour</a>
+    </li>
+    <li>
+      <a id="dc23020d-9685-0d8d-ac15-5f9c6e915179" href="dc23020d-9685-0d8d-ac15-5f9c6e915179.htm">Pen<wbr />Width</a>
+    </li>
+    <li>
+      <a id="91dfeb91-a1bf-79fd-ad81-a5a33c62c2df" href="91dfeb91-a1bf-79fd-ad81-a5a33c62c2df.htm">Xpos</a>
+    </li>
+    <li>
+      <a id="f09da86c-34ae-50ea-38cc-9d02e0cd1fc6" href="f09da86c-34ae-50ea-38cc-9d02e0cd1fc6.htm">Ypos</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -34,4 +35,42 @@
       <a id="8aefa93c-43cf-d0bc-7e61-64bcf91ae898" href="8aefa93c-43cf-d0bc-7e61-64bcf91ae898.htm">variablenum</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="b51059db-07ab-956e-a5ea-3f880d419284.htm">Int<wbr />Command</a>
+    </li>
+    <li>
+      <a href="9d20cfe5-5c24-a2f1-fbf2-9515c3acdd3f.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="cff6f5e3-ba2f-a42c-090f-ff761212e277" href="cff6f5e3-ba2f-a42c-090f-ff761212e277.htm">_initial<wbr />Value</a>
+    </li>
+    <li>
+      <a id="ec576e51-6ac3-eff3-52df-c918ffe795da" href="ec576e51-6ac3-eff3-52df-c918ffe795da.htm">_is<wbr />Assignment</a>
+    </li>
+    <li>
+      <a id="378dc5c9-95d6-e311-7faf-e1bf88f428e8" href="378dc5c9-95d6-e311-7faf-e1bf88f428e8.htm">_local<wbr />Scope</a>
+    </li>
+    <li>
+      <a id="0e470e5f-2f27-5cdd-0a47-d11cdafc0610" href="0e470e5f-2f27-5cdd-0a47-d11cdafc0610.htm">_program</a>
+    </li>
+    <li>
+      <a id="c92e2199-6d1b-d688-68b0-1bdd0eee955d" href="c92e2199-6d1b-d688-68b0-1bdd0eee955d.htm">_variable<wbr />Name</a>
+    </li>
+    <li>
+      <a id="8aefa93c-43cf-d0bc-7e61-64bcf91ae898" href="8aefa93c-43cf-d0bc-7e61-64bcf91ae898.htm">variablenum</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

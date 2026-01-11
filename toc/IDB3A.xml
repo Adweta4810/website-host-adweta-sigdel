@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -46,4 +47,54 @@
       <a id="3cbfc379-7060-fd98-a7be-3331b653e145" href="3cbfc379-7060-fd98-a7be-3331b653e145.htm">Set<wbr />While<wbr />Index</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="6f210a7c-0a4c-6b09-8f75-863471d4abe1.htm">While<wbr />Command</a>
+    </li>
+    <li>
+      <a href="159b4df0-8f58-b6a1-fc3c-d09b75710977.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="53c8d8e1-9672-dd65-d412-249e6c00d553" href="53c8d8e1-9672-dd65-d412-249e6c00d553.htm">Check<wbr />Parameters</a>
+    </li>
+    <li>
+      <a id="8d33ae7a-b421-c8fc-3edc-ec7585118e79" href="8d33ae7a-b421-c8fc-3edc-ec7585118e79.htm">Compile</a>
+    </li>
+    <li>
+      <a id="270cd4a4-11fb-60d0-1652-2cf0b6129b4b" href="270cd4a4-11fb-60d0-1652-2cf0b6129b4b.htm">Evaluate<wbr />Condition</a>
+    </li>
+    <li>
+      <a id="c6572996-0e8f-3ed0-3133-335159ed6c96" href="c6572996-0e8f-3ed0-3133-335159ed6c96.htm">Evaluate<wbr />Expression</a>
+    </li>
+    <li>
+      <a id="023ebcd4-9a45-e143-48fc-653caedabde0" href="023ebcd4-9a45-e143-48fc-653caedabde0.htm">Execute</a>
+    </li>
+    <li>
+      <a id="f63f6bb3-b370-f34c-7e63-74f1afc9ffb4" href="f63f6bb3-b370-f34c-7e63-74f1afc9ffb4.htm">Get<wbr />Condition</a>
+    </li>
+    <li>
+      <a id="2a284386-d7ac-13d2-89b0-4efc32f6123a" href="2a284386-d7ac-13d2-89b0-4efc32f6123a.htm">Get<wbr />End<wbr />While<wbr />Index</a>
+    </li>
+    <li>
+      <a id="806ad209-f9b9-ca3e-94db-463c62be4eba" href="806ad209-f9b9-ca3e-94db-463c62be4eba.htm">Set</a>
+    </li>
+    <li>
+      <a id="41292598-9968-0194-5b93-bedd4022289f" href="41292598-9968-0194-5b93-bedd4022289f.htm">Set<wbr />End<wbr />While<wbr />Index</a>
+    </li>
+    <li>
+      <a id="3cbfc379-7060-fd98-a7be-3331b653e145" href="3cbfc379-7060-fd98-a7be-3331b653e145.htm">Set<wbr />While<wbr />Index</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

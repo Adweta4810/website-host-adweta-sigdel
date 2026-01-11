@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -49,4 +50,57 @@
       <a id="852c6512-13c5-7829-f78c-e8a5f1006c94" href="852c6512-13c5-7829-f78c-e8a5f1006c94.htm">array<wbr />Count</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="5a7a02bd-377d-7ad4-4651-12b7a547c98e.htm">Array<wbr />Command</a>
+    </li>
+    <li>
+      <a href="92d7a718-8ff9-c6c6-3108-ff135200af2a.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b5f227ec-ed27-8549-7686-f1e43acaccde" href="b5f227ec-ed27-8549-7686-f1e43acaccde.htm">_array<wbr />Name</a>
+    </li>
+    <li>
+      <a id="c21b05ee-adeb-b279-e5d5-e6d30d8ab10f" href="c21b05ee-adeb-b279-e5d5-e6d30d8ab10f.htm">_array<wbr />Types</a>
+    </li>
+    <li>
+      <a id="7d14093c-c484-970d-1210-65a830e4fa95" href="7d14093c-c484-970d-1210-65a830e4fa95.htm">_columns</a>
+    </li>
+    <li>
+      <a id="26e21524-fdc8-5ec0-b00f-bf259870a12f" href="26e21524-fdc8-5ec0-b00f-bf259870a12f.htm">_columns<wbr />Param</a>
+    </li>
+    <li>
+      <a id="ed589975-26c2-4838-4224-fdf5e9e6865c" href="ed589975-26c2-4838-4224-fdf5e9e6865c.htm">_int<wbr />Arrays</a>
+    </li>
+    <li>
+      <a id="fec41be9-d72b-7454-70ab-63c83b5c312c" href="fec41be9-d72b-7454-70ab-63c83b5c312c.htm">_program</a>
+    </li>
+    <li>
+      <a id="6e1c498c-c4b5-472f-1f36-640d20713304" href="6e1c498c-c4b5-472f-1f36-640d20713304.htm">_real<wbr />Arrays</a>
+    </li>
+    <li>
+      <a id="a3295d03-eb51-485b-c080-07cbdc759eaf" href="a3295d03-eb51-485b-c080-07cbdc759eaf.htm">_rows</a>
+    </li>
+    <li>
+      <a id="51d09af3-def0-d7bb-c697-156c4b044eaa" href="51d09af3-def0-d7bb-c697-156c4b044eaa.htm">_rows<wbr />Param</a>
+    </li>
+    <li>
+      <a id="5aeb06c7-c621-2865-7eec-158844f0b3ca" href="5aeb06c7-c621-2865-7eec-158844f0b3ca.htm">_type</a>
+    </li>
+    <li>
+      <a id="852c6512-13c5-7829-f78c-e8a5f1006c94" href="852c6512-13c5-7829-f78c-e8a5f1006c94.htm">array<wbr />Count</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

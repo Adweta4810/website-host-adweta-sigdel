@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -25,4 +26,33 @@
       <a id="534b7080-77f0-3906-60af-26e927c6abc2" href="534b7080-77f0-3906-60af-26e927c6abc2.htm">Should<wbr />Skip</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="4f9a5bce-b336-c4e9-d3b7-3818233cc495.htm">Execution<wbr />State<wbr />Manager.<wbr />Conditional<wbr />Context</a>
+    </li>
+    <li>
+      <a href="c6286c85-4c06-45df-1c7e-ef65efdbc7e5.htm">Properties</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a00b157f-d02b-1f51-89ef-20d2b72c84b0" href="a00b157f-d02b-1f51-89ef-20d2b72c84b0.htm">Condition<wbr />Result</a>
+    </li>
+    <li>
+      <a id="34695172-21b5-4a16-4a07-c3ff7635b8b7" href="34695172-21b5-4a16-4a07-c3ff7635b8b7.htm">In<wbr />Else<wbr />Block</a>
+    </li>
+    <li>
+      <a id="534b7080-77f0-3906-60af-26e927c6abc2" href="534b7080-77f0-3906-60af-26e927c6abc2.htm">Should<wbr />Skip</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

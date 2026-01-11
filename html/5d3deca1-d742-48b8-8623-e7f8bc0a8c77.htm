@@ -1,0 +1,200 @@
+﻿<!DOCTYPE html >
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="../icons/favicon.ico" />
+    <link rel="stylesheet" href="../css/bulma.css" />
+    <link rel="stylesheet" href="../css/font-awesome.min.css" />
+    <link rel="stylesheet" href="../css/presentationStyle.css" />
+    <link rel="stylesheet" href="../css/vs.min.css" />
+    <script src="../scripts/jquery-3.5.1.min.js"></script>
+    <script src="../scripts/clipboard.min.js"></script>
+    <script src="../scripts/highlight.min.js"></script>
+    <script src="../scripts/presentationStyle.js"></script>
+    <title>ForCommand Methods</title>
+    <meta name="Title" content="Methods" />
+    <meta name="Help.Id" content="Methods.T:BOOSEApp.ForCommand" />
+    <meta name="Help.ContentType" content="Reference" />
+    <meta name="container" content="BOOSEApp" />
+    <meta name="guid" content="5d3deca1-d742-48b8-8623-e7f8bc0a8c77" />
+    <meta name="tocFile" content="../toc/IDPA.xml" />
+  </head>
+  <body>
+    <div class="fixedLayout">
+      <div id="Header" class="fixedHeader">
+        <div class="pageHeader level mb-0 py-2 px-4">
+          <div id="TitleContainer" class="level-left">
+            <div id="DocumentationTitle" class="level-item">A Sandcastle Documented Class Library</div>
+          </div>
+          <div id="LangFilterSearchContainer" class="level-right">
+            <div class="level-item">
+              <div class="dropdown is-hoverable">
+                <div class="dropdown-trigger">
+                  <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+                    <span id="CurrentLanguage"></span>
+                    <span class="icon is-small">
+                      <i class="fa fa-angle-down" aria-hidden="true"></i>
+                    </span>
+                  </button>
+                </div>
+                <div class="dropdown-menu" role="menu">
+                  <div id="LanguageSelections" class="dropdown-content">
+                    <a class="dropdown-item languageFilterItem" data-languageId="cs">C#</a>
+                    <a class="dropdown-item languageFilterItem" data-languageId="asp">ASP.NET</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="level-item">
+              <form id="SearchForm" action="#" onsubmit="TransferToSearchPage(); return false;">
+                <div class="field">
+                  <div class="control has-icons-left">
+                    <input id="SearchTerms" class="input" type="text" maxlength="200" placeholder="Search" />
+                    <span class="icon is-small is-left">
+                      <i class="fa fa-search"></i>
+                    </span>
+                    <button id="SearchButton" type="submit" class="is-hidden"></button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fixedContent">
+        <nav class="breadcrumb my-1 px-2 border-bottom" role="navigation">
+          <ul id="TopicBreadcrumbs" />
+        </nav>
+        <div id="ContentContainer" class="columns pl-5 pr-5 fixedContent">
+          <div id="ShowHideTOCColumn" class="column is-hidden-tablet">
+            <a id="ShowHideTOC">Show/Hide TOC</a>
+          </div>
+          <div id="TOCColumn" class="column is-hidden-mobile">
+            <nav class="toc">
+              <ul id="TableOfContents" class="toc-menu" />
+            </nav>
+          </div>
+          <div id="Resizer" class="is-hidden"></div>
+          <div id="TopicContent" class="column content is-7">
+            <h1>For<wbr />Command Methods</h1>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>Methods</h2>
+            <div id="IDADASection">
+              <table id="MethodList" class="table is-hoverable">
+                <tr>
+                  <td>
+                    <a href="4192e92f-2639-d246-50bd-9bec5adada31.htm">CheckParameters</a>
+                  </td>
+                  <td>
+            Validates that the For command receives proper parameters.
+            Expected format: variable = start to end step increment
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="fa6bec8e-e43e-8ba3-c396-eca19b1c0f83.htm">Compile</a>
+                  </td>
+                  <td>
+            Compiles the For command.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="aaf879a5-9991-8ade-dc35-a8ebfdac1af5.htm">EvaluateExpression</a>
+                  </td>
+                  <td>
+            Evaluates an expression that may contain variables and arithmetic operators.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="12d8c625-252d-aa3a-1667-657b7bba7135.htm">Execute</a>
+                  </td>
+                  <td>
+            Executes the For command by initializing the loop variable.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="50acdb26-a5ab-eb4f-48e0-0d87e428f3dd.htm">GetEndExpr</a>
+                  </td>
+                  <td>
+            Gets the end value expression.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="7fe2a25c-6fa5-3e69-b146-e1cd4dad59d1.htm">GetLoopVariable</a>
+                  </td>
+                  <td>
+            Gets the loop variable name.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="c7544c2d-cb6c-d7ef-2d3d-1eafbf1fd151.htm">GetStepExpr</a>
+                  </td>
+                  <td>
+            Gets the step value expression.
+            </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="e01e76ac-e648-a1f4-b05c-333d1e6db175.htm">Set</a>
+                  </td>
+                  <td>
+            Sets up the For command with the program context and parameters.
+            </td>
+                </tr>
+              </table>
+            </div>
+            <h2 class="quickLinkHeader">
+              <span class="icon toggleSection" tabindex="0">
+                <i class="fa fa-angle-down"></i>
+              </span>See Also</h2>
+            <div id="seeAlsoSection">
+              <h4>Reference</h4>
+              <div>
+                <a href="7873a012-2cc6-6f01-6568-fc259a8dafc5.htm">ForCommand Class</a>
+              </div>
+              <div>
+                <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp Namespace</a>
+              </div>
+            </div>
+          </div>
+          <div id="InThisArticleColumn" class="column is-hidden-mobile">
+            <nav class="menu sticky is-hidden">
+              <p class="menu-label">
+                <strong>In This Article</strong>
+              </p>
+              <ul id="InThisArticleMenu" class="menu-list">
+                <li>
+                  <a class="quickLink">Methods</a>
+                </li>
+                <li>
+                  <a class="quickLink">See Also</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>$(function(){
+SetDefaultLanguage("cs");
+LoadTocFile(null, null);
+InitializeQuickLinks();
+
+$(".toggleSection" ).click(function () {
+    SectionExpandCollapse(this);
+});
+
+$(".toggleSection").keypress(function () {
+    SectionExpandCollapseCheckKey(this, event)
+});
+});</script>
+  </body>
+</html>

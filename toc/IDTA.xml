@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -27,4 +28,35 @@
       <ul class="toc-menu is-hidden"> </ul>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="71e5f85b-3944-a797-9892-2e601993de4d.htm">Method<wbr />Definition</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="77cb9039-15fe-73f7-5bdf-706293e7e687" class="has-submenu" href="77cb9039-15fe-73f7-5bdf-706293e7e687.htm">
+        <span data-tocFile="../toc/IDATA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Constructors</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="14f67973-03fd-0534-cbe6-2fe40496145c" class="has-submenu" href="14f67973-03fd-0534-cbe6-2fe40496145c.htm">
+        <span data-tocFile="../toc/IDBTA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

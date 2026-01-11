@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -19,4 +20,27 @@
       <a id="57649dd1-c5f5-e635-d25a-200acc48f6ba" href="57649dd1-c5f5-e635-d25a-200acc48f6ba.htm">Main</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="d71a523b-6cca-9dda-a65b-651bbf3c117b.htm">Program</a>
+    </li>
+    <li>
+      <a href="b52154cb-d6bd-1fa3-acb5-9aa6a77df7a4.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="57649dd1-c5f5-e635-d25a-200acc48f6ba" href="57649dd1-c5f5-e635-d25a-200acc48f6ba.htm">Main</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

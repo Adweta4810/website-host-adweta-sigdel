@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -121,4 +122,129 @@
       <a id="bd8ac493-1391-27e6-6ae2-8dc19b16dd28" href="bd8ac493-1391-27e6-6ae2-8dc19b16dd28.htm">table<wbr />Layout<wbr />Panel<wbr />2</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="80a8a76b-3a79-f527-73be-462c73ab896e.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="dc238fcf-f4f2-0fe0-3485-4e3832c2493e.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7d287933-741a-b41e-3c1f-770892389d81" href="7d287933-741a-b41e-3c1f-770892389d81.htm">_for<wbr />Loop<wbr />Contexts</a>
+    </li>
+    <li>
+      <a id="d6229ee7-624b-19b4-eb74-4d93cc6db0a2" href="d6229ee7-624b-19b4-eb74-4d93cc6db0a2.htm">_local<wbr />Scopes</a>
+    </li>
+    <li>
+      <a id="9d077caf-355f-e8c7-c0be-dda7c209f9b3" href="9d077caf-355f-e8c7-c0be-dda7c209f9b3.htm">_method<wbr />Definitions</a>
+    </li>
+    <li>
+      <a id="e64e1b2b-12ef-1eee-f921-1cb4e85fc96d" href="e64e1b2b-12ef-1eee-f921-1cb4e85fc96d.htm">_method<wbr />Return<wbr />Value</a>
+    </li>
+    <li>
+      <a id="e71bb942-2772-c863-0b4a-f2a807feef2e" href="e71bb942-2772-c863-0b4a-f2a807feef2e.htm">about<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item</a>
+    </li>
+    <li>
+      <a id="812d6a8e-37de-3cd6-bb8a-eff73979c939" href="812d6a8e-37de-3cd6-bb8a-eff73979c939.htm">btn_<wbr />Check</a>
+    </li>
+    <li>
+      <a id="d5ddea25-d0e3-ebf4-8b4c-d91ba179a6dc" href="d5ddea25-d0e3-ebf4-8b4c-d91ba179a6dc.htm">btn_<wbr />run</a>
+    </li>
+    <li>
+      <a id="90b35c87-bf9d-837f-d540-f628c4fd01cf" href="90b35c87-bf9d-837f-d540-f628c4fd01cf.htm">canvas</a>
+    </li>
+    <li>
+      <a id="47070c4e-b9cc-7a04-4415-3d44ff1254ff" href="47070c4e-b9cc-7a04-4415-3d44ff1254ff.htm">chk<wbr />Show<wbr />Pointer</a>
+    </li>
+    <li>
+      <a id="bec2cc82-f9c7-1c61-59ea-45849c5b7735" href="bec2cc82-f9c7-1c61-59ea-45849c5b7735.htm">clear<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item</a>
+    </li>
+    <li>
+      <a id="c150e19f-985b-3870-b1ae-154257e44bfa" href="c150e19f-985b-3870-b1ae-154257e44bfa.htm">components</a>
+    </li>
+    <li>
+      <a id="b2e4da4e-ad03-6f26-e4bc-2643b520d445" href="b2e4da4e-ad03-6f26-e4bc-2643b520d445.htm">debug<wbr />Window</a>
+    </li>
+    <li>
+      <a id="d468cfe7-b289-53b7-478c-bda5cdaee699" href="d468cfe7-b289-53b7-478c-bda5cdaee699.htm">edit<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item</a>
+    </li>
+    <li>
+      <a id="f672c7d2-31ce-9985-4c49-448a5cdced8e" href="f672c7d2-31ce-9985-4c49-448a5cdced8e.htm">exit<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item</a>
+    </li>
+    <li>
+      <a id="fd4253d6-0c07-12cc-c13b-d7026761825b" href="fd4253d6-0c07-12cc-c13b-d7026761825b.htm">Factory</a>
+    </li>
+    <li>
+      <a id="95571178-dc71-7b7f-17c1-b0bf6ad9c2cd" href="95571178-dc71-7b7f-17c1-b0bf6ad9c2cd.htm">file<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item</a>
+    </li>
+    <li>
+      <a id="df137797-2355-d15e-9871-6719310a6ab9" href="df137797-2355-d15e-9871-6719310a6ab9.htm">help<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item</a>
+    </li>
+    <li>
+      <a id="3acca1e8-fcec-415a-cf32-b801bc54739d" href="3acca1e8-fcec-415a-cf32-b801bc54739d.htm">label<wbr />1</a>
+    </li>
+    <li>
+      <a id="169de191-ae36-c64a-ec0c-7efc026603c4" href="169de191-ae36-c64a-ec0c-7efc026603c4.htm">label<wbr />2</a>
+    </li>
+    <li>
+      <a id="fa7d2ed9-adff-b16c-8e4e-5d2c1d3265a0" href="fa7d2ed9-adff-b16c-8e4e-5d2c1d3265a0.htm">lbl<wbr />Pointer</a>
+    </li>
+    <li>
+      <a id="0065ff30-036c-3ca6-4486-9d97ddcdf15e" href="0065ff30-036c-3ca6-4486-9d97ddcdf15e.htm">menu<wbr />Strip<wbr />1</a>
+    </li>
+    <li>
+      <a id="dc23aef4-e4c8-314e-aa99-1a4d77e7b77b" href="dc23aef4-e4c8-314e-aa99-1a4d77e7b77b.htm">multi<wbr />Line<wbr />Code</a>
+    </li>
+    <li>
+      <a id="dfe5a9fd-87d6-d7c5-e52e-bfe0ed643519" href="dfe5a9fd-87d6-d7c5-e52e-bfe0ed643519.htm">new<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item</a>
+    </li>
+    <li>
+      <a id="dcdb1820-21ad-cf89-6806-aeda904ad6e3" href="dcdb1820-21ad-cf89-6806-aeda904ad6e3.htm">open<wbr />Image<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item</a>
+    </li>
+    <li>
+      <a id="8a9353e6-50ff-419d-fdf1-6caed212aef7" href="8a9353e6-50ff-419d-fdf1-6caed212aef7.htm">open<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item</a>
+    </li>
+    <li>
+      <a id="d9d3ac89-e7a3-117b-85dc-26077fea35af" href="d9d3ac89-e7a3-117b-85dc-26077fea35af.htm">Parser</a>
+    </li>
+    <li>
+      <a id="89ebb249-4121-d66f-1e5a-6f3955a2fbd3" href="89ebb249-4121-d66f-1e5a-6f3955a2fbd3.htm">picture<wbr />Box<wbr />Canvas</a>
+    </li>
+    <li>
+      <a id="fc83a265-d54f-a9b6-6578-ff7ef81d11b5" href="fc83a265-d54f-a9b6-6578-ff7ef81d11b5.htm">Program</a>
+    </li>
+    <li>
+      <a id="3c5bf9f6-9e3b-4630-bd85-db170a021ded" href="3c5bf9f6-9e3b-4630-bd85-db170a021ded.htm">reset<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item</a>
+    </li>
+    <li>
+      <a id="3bdea4f8-e0e3-2171-bd17-bcc5ef0490de" href="3bdea4f8-e0e3-2171-bd17-bcc5ef0490de.htm">save<wbr />Image<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item</a>
+    </li>
+    <li>
+      <a id="32ad3f81-4100-535e-09a7-0ef75d375e1e" href="32ad3f81-4100-535e-09a7-0ef75d375e1e.htm">save<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item<wbr />1</a>
+    </li>
+    <li>
+      <a id="01f74504-0c61-a5a2-be7a-dee4e44f2c2e" href="01f74504-0c61-a5a2-be7a-dee4e44f2c2e.htm">singleline</a>
+    </li>
+    <li>
+      <a id="f1a8b785-09ae-072e-3534-d7cc7c0bb13f" href="f1a8b785-09ae-072e-3534-d7cc7c0bb13f.htm">split<wbr />Container<wbr />1</a>
+    </li>
+    <li>
+      <a id="6b2505c7-90ff-2c5a-7d03-6ddfa98a7368" href="6b2505c7-90ff-2c5a-7d03-6ddfa98a7368.htm">table<wbr />Layout<wbr />Panel<wbr />1</a>
+    </li>
+    <li>
+      <a id="bd8ac493-1391-27e6-6ae2-8dc19b16dd28" href="bd8ac493-1391-27e6-6ae2-8dc19b16dd28.htm">table<wbr />Layout<wbr />Panel<wbr />2</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -22,4 +23,30 @@
       <a id="82b28d99-7d74-1357-cc1f-a1ab0205d00a" href="82b28d99-7d74-1357-cc1f-a1ab0205d00a.htm">_instance</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="ab7cf04c-5534-c0f8-006e-d64e700fba0c.htm">My<wbr />Command<wbr />Factory</a>
+    </li>
+    <li>
+      <a href="c8767e02-9846-2810-6ddc-6889bbae92d4.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f8cd03a0-f99b-20fb-bacb-3706521eb228" href="f8cd03a0-f99b-20fb-bacb-3706521eb228.htm">_canvas</a>
+    </li>
+    <li>
+      <a id="82b28d99-7d74-1357-cc1f-a1ab0205d00a" href="82b28d99-7d74-1357-cc1f-a1ab0205d00a.htm">_instance</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

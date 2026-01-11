@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -25,4 +26,33 @@
       <a id="96b77227-3a17-7b7c-4e5d-194a8bc3af3b" href="96b77227-3a17-7b7c-4e5d-194a8bc3af3b.htm">Step<wbr />Expr</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="caffca92-a999-57e4-d7ab-eef56b5424d8.htm">BOOSEApp.<wbr />For<wbr />Loop<wbr />Context</a>
+    </li>
+    <li>
+      <a href="67bc1e1b-5c77-9d7e-5690-355cf29932c9.htm">Fields</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c9c23c32-1f3f-07f2-ae7a-5d9b54eeb609" href="c9c23c32-1f3f-07f2-ae7a-5d9b54eeb609.htm">End<wbr />Expr</a>
+    </li>
+    <li>
+      <a id="b6535758-8998-6236-c1eb-884b0a5613d3" href="b6535758-8998-6236-c1eb-884b0a5613d3.htm">Loop<wbr />Variable</a>
+    </li>
+    <li>
+      <a id="96b77227-3a17-7b7c-4e5d-194a8bc3af3b" href="96b77227-3a17-7b7c-4e5d-194a8bc3af3b.htm">Step<wbr />Expr</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

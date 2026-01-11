@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -40,4 +41,48 @@
       <a id="c2ffd417-fd5e-aeab-c85a-5775ecbd8bfa" href="c2ffd417-fd5e-aeab-c85a-5775ecbd8bfa.htm">Set<wbr />While<wbr />Index</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="eb27e639-7337-5de4-6e87-531dee36b54c.htm">End<wbr />While<wbr />Command</a>
+    </li>
+    <li>
+      <a href="4b5d3c2f-7daa-682a-4435-68ec55994442.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a6202163-738d-61ee-9557-c60c2de32543" href="a6202163-738d-61ee-9557-c60c2de32543.htm">Check<wbr />Parameters</a>
+    </li>
+    <li>
+      <a id="3c86ca58-68d5-5aeb-eaf5-6806c3c1a536" href="3c86ca58-68d5-5aeb-eaf5-6806c3c1a536.htm">Compile</a>
+    </li>
+    <li>
+      <a id="24c94683-b2ea-7571-4308-39cb71502546" href="24c94683-b2ea-7571-4308-39cb71502546.htm">Execute</a>
+    </li>
+    <li>
+      <a id="405179e7-3b4d-038e-6037-e03b5776271e" href="405179e7-3b4d-038e-6037-e03b5776271e.htm">Get<wbr />End<wbr />While<wbr />Index</a>
+    </li>
+    <li>
+      <a id="c7264bd6-7667-165c-126e-ae1ad37e5775" href="c7264bd6-7667-165c-126e-ae1ad37e5775.htm">Get<wbr />While<wbr />Index</a>
+    </li>
+    <li>
+      <a id="df0ba361-e807-f691-ff9a-d3bae96a2276" href="df0ba361-e807-f691-ff9a-d3bae96a2276.htm">Set</a>
+    </li>
+    <li>
+      <a id="5d2a6e5e-6bbf-dc73-4a91-0c3786e7cec1" href="5d2a6e5e-6bbf-dc73-4a91-0c3786e7cec1.htm">Set<wbr />End<wbr />While<wbr />Index</a>
+    </li>
+    <li>
+      <a id="c2ffd417-fd5e-aeab-c85a-5775ecbd8bfa" href="c2ffd417-fd5e-aeab-c85a-5775ecbd8bfa.htm">Set<wbr />While<wbr />Index</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

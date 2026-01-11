@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -55,4 +56,63 @@
       <a id="30133543-dc51-2466-f194-eb64d43b6876" href="30133543-dc51-2466-f194-eb64d43b6876.htm">Write<wbr />Text</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="a38dc689-9881-ba25-77e0-773d9555bb39.htm">App<wbr />Canvas</a>
+    </li>
+    <li>
+      <a href="3edf1d7c-c001-14cd-fe9e-aa04323e04e2.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="bf58ff23-0574-8d49-0a50-e6e7de15704d" href="bf58ff23-0574-8d49-0a50-e6e7de15704d.htm">Circle</a>
+    </li>
+    <li>
+      <a id="c0b0a7ee-6428-ace8-c41c-0ffb4983c0d2" href="c0b0a7ee-6428-ace8-c41c-0ffb4983c0d2.htm">Clear</a>
+    </li>
+    <li>
+      <a id="84088aa8-71dc-c369-144e-03e3ec255d3f" href="84088aa8-71dc-c369-144e-03e3ec255d3f.htm">Draw<wbr />To</a>
+    </li>
+    <li>
+      <a id="7e7f7d65-7d65-e387-e953-a590b86d7fd9" href="7e7f7d65-7d65-e387-e953-a590b86d7fd9.htm">get<wbr />Bitmap</a>
+    </li>
+    <li>
+      <a id="a0a0e331-6290-383b-5047-162008364023" href="a0a0e331-6290-383b-5047-162008364023.htm">Move<wbr />To</a>
+    </li>
+    <li>
+      <a id="17e77f7a-0a61-98cc-a7dd-ffc7a511af2f" href="17e77f7a-0a61-98cc-a7dd-ffc7a511af2f.htm">Rect</a>
+    </li>
+    <li>
+      <a id="87211775-9c5f-bdc4-3625-9b0d691e2f7d" href="87211775-9c5f-bdc4-3625-9b0d691e2f7d.htm">Reset</a>
+    </li>
+    <li>
+      <a id="33176e99-bacb-8750-3cd8-4430d5248b2c" href="33176e99-bacb-8750-3cd8-4430d5248b2c.htm">Set</a>
+    </li>
+    <li>
+      <a id="acc7ef80-d8d5-aa6f-497e-58e93856e082" href="acc7ef80-d8d5-aa6f-497e-58e93856e082.htm">Set<wbr />Bg<wbr />Colour</a>
+    </li>
+    <li>
+      <a id="5e265cf9-a4f6-a486-4a32-0a454f3c42a0" href="5e265cf9-a4f6-a486-4a32-0a454f3c42a0.htm">Set<wbr />Colour</a>
+    </li>
+    <li>
+      <a id="370221aa-85f4-8c8e-f346-2d5be5aa21ff" href="370221aa-85f4-8c8e-f346-2d5be5aa21ff.htm">Set<wbr />Drawing<wbr />Color</a>
+    </li>
+    <li>
+      <a id="7b01902f-9f39-4818-0c6e-acc93c1fdde1" href="7b01902f-9f39-4818-0c6e-acc93c1fdde1.htm">Tri</a>
+    </li>
+    <li>
+      <a id="30133543-dc51-2466-f194-eb64d43b6876" href="30133543-dc51-2466-f194-eb64d43b6876.htm">Write<wbr />Text</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

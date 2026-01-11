@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -25,4 +26,33 @@
       <a id="f0a5a9e5-fa20-f16d-b0ff-c74229244cb3" href="f0a5a9e5-fa20-f16d-b0ff-c74229244cb3.htm">Set<wbr />Real<wbr />Array(<wbr />String, Double, Int<wbr />32, Int<wbr />32)</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="5a7a02bd-377d-7ad4-4651-12b7a547c98e.htm">Array<wbr />Command</a>
+    </li>
+    <li>
+      <a href="0ac8aa4b-d53c-fe72-231c-2f6e726be297.htm">Methods</a>
+    </li>
+    <li>
+      <a href="1724fa95-802d-9bc4-8780-aceaeed5cee3.htm">Set<wbr />Real<wbr />Array</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="0be18899-edd3-59e9-94ab-21509caa0c3d" href="0be18899-edd3-59e9-94ab-21509caa0c3d.htm">Set<wbr />Real<wbr />Array(<wbr />Double, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="f0a5a9e5-fa20-f16d-b0ff-c74229244cb3" href="f0a5a9e5-fa20-f16d-b0ff-c74229244cb3.htm">Set<wbr />Real<wbr />Array(<wbr />String, Double, Int<wbr />32, Int<wbr />32)</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>

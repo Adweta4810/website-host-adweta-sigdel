@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toc>
   <breadcrumbs>
@@ -22,4 +23,30 @@
       <a id="4aecf6c5-9529-303f-60b1-0bbf6cf3e9a8" href="4aecf6c5-9529-303f-60b1-0bbf6cf3e9a8.htm">Method<wbr />Definition(<wbr />String, String)</a>
     </li>
   </tocItems>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="71e5f85b-3944-a797-9892-2e601993de4d.htm">Method<wbr />Definition</a>
+    </li>
+    <li>
+      <a href="77cb9039-15fe-73f7-5bdf-706293e7e687.htm">Constructors</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="10671d30-3ed9-0b4f-722f-4fa6854bd3e4" href="10671d30-3ed9-0b4f-722f-4fa6854bd3e4.htm">Method<wbr />Definition</a>
+    </li>
+    <li>
+      <a id="4aecf6c5-9529-303f-60b1-0bbf6cf3e9a8" href="4aecf6c5-9529-303f-60b1-0bbf6cf3e9a8.htm">Method<wbr />Definition(<wbr />String, String)</a>
+    </li>
+  </tocItems>
+>>>>>>> 632147c (Added my documentation website)
 </toc>
