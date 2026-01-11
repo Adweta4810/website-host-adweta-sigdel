@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="4f9a5bce-b336-c4e9-d3b7-3818233cc495.htm">Execution<wbr />State<wbr />Manager.<wbr />Conditional<wbr />Context</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="4ff3545e-9500-80a0-0b12-1c6ada55960d" href="4ff3545e-9500-80a0-0b12-1c6ada55960d.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="c6286c85-4c06-45df-1c7e-ef65efdbc7e5" class="has-submenu" href="c6286c85-4c06-45df-1c7e-ef65efdbc7e5.htm">
+        <span data-tocFile="../toc/IDBOA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

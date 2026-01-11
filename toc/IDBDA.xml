@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="80a8a76b-3a79-f527-73be-462c73ab896e.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="1a976ab8-615a-12cd-61df-c43cc61690fe.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="7c696a83-c72b-4236-d3b2-0a269173fbe5" href="7c696a83-c72b-4236-d3b2-0a269173fbe5.htm">about<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item_<wbr />Click</a>
+    </li>
+    <li>
+      <a id="4ab1a9cd-bbe3-5f69-4579-5ae7a906281b" href="4ab1a9cd-bbe3-5f69-4579-5ae7a906281b.htm">about<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item_<wbr />Click_<wbr />1</a>
+    </li>
+    <li>
+      <a id="34804e76-2e58-9046-5c98-b1d3f2602ddc" href="34804e76-2e58-9046-5c98-b1d3f2602ddc.htm">Append<wbr />Debug<wbr />Output</a>
+    </li>
+    <li>
+      <a id="ed677ad9-33d2-cdf0-6ad6-abd550d072d5" href="ed677ad9-33d2-cdf0-6ad6-abd550d072d5.htm">BOOSEApp_<wbr />Load</a>
+    </li>
+    <li>
+      <a id="a357ef59-f251-9d80-7ec2-3d078fbb2698" href="a357ef59-f251-9d80-7ec2-3d078fbb2698.htm">btn_<wbr />Check_<wbr />Click</a>
+    </li>
+    <li>
+      <a id="2452a701-c476-1f69-50ba-804d327dd523" href="2452a701-c476-1f69-50ba-804d327dd523.htm">btn_<wbr />run_<wbr />Click</a>
+    </li>
+    <li>
+      <a id="b3e2b5dc-78b3-47e5-d9b5-72edd910a35c" href="b3e2b5dc-78b3-47e5-d9b5-72edd910a35c.htm">chk<wbr />Show<wbr />Pointer_<wbr />Checked<wbr />Changed</a>
+    </li>
+    <li>
+      <a id="4cb07ef5-4b4e-7fcf-4dda-82a4e42804e7" href="4cb07ef5-4b4e-7fcf-4dda-82a4e42804e7.htm">Clear<wbr />Debug<wbr />Output</a>
+    </li>
+    <li>
+      <a id="c85bea77-3585-24c4-88f8-45b1cc1b4ccb" href="c85bea77-3585-24c4-88f8-45b1cc1b4ccb.htm">clear<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item_<wbr />Click</a>
+    </li>
+    <li>
+      <a id="81928f47-45c2-2964-853a-bcb79e28a71f" href="81928f47-45c2-2964-853a-bcb79e28a71f.htm">Dispose</a>
+    </li>
+    <li>
+      <a id="40cb463e-507a-87cb-c86f-d2db0400732c" href="40cb463e-507a-87cb-c86f-d2db0400732c.htm">Evaluate<wbr />Condition</a>
+    </li>
+    <li>
+      <a id="94b757e2-2351-f9de-0f7c-ed952bb1a559" href="94b757e2-2351-f9de-0f7c-ed952bb1a559.htm">Evaluate<wbr />Expression</a>
+    </li>
+    <li>
+      <a id="9c104074-71aa-28ee-838e-89feff390051" href="9c104074-71aa-28ee-838e-89feff390051.htm">Evaluate<wbr />For<wbr />Expression</a>
+    </li>
+    <li>
+      <a id="c29b5a4f-b08e-7aa6-33b1-6bc9d23ac45e" href="c29b5a4f-b08e-7aa6-33b1-6bc9d23ac45e.htm">Evaluate<wbr />Method<wbr />Argument</a>
+    </li>
+    <li>
+      <a id="595a6c30-f6ee-e923-d949-b34465f48501" href="595a6c30-f6ee-e923-d949-b34465f48501.htm">Execute<wbr />Method</a>
+    </li>
+    <li>
+      <a id="1a3e1eaf-60b7-05dc-37a5-ee66b1c4f6f4" href="1a3e1eaf-60b7-05dc-37a5-ee66b1c4f6f4.htm">Execute<wbr />Program<wbr />With<wbr />Loops</a>
+    </li>
+    <li>
+      <a id="e1d1acd5-1072-85f2-5871-89d613436337" href="e1d1acd5-1072-85f2-5871-89d613436337.htm">exit<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item_<wbr />Click</a>
+    </li>
+    <li>
+      <a id="3a030412-c3cd-0a9d-2a62-2d080ca63e95" href="3a030412-c3cd-0a9d-2a62-2d080ca63e95.htm">Find<wbr />Matching<wbr />End<wbr />For</a>
+    </li>
+    <li>
+      <a id="7d6539e8-e9f3-b7f7-c5fb-d62896073e8d" href="7d6539e8-e9f3-b7f7-c5fb-d62896073e8d.htm">Find<wbr />Matching<wbr />End<wbr />Method</a>
+    </li>
+    <li>
+      <a id="74194e69-ec5e-a649-2bde-655bba366a68" href="74194e69-ec5e-a649-2bde-655bba366a68.htm">Find<wbr />Matching<wbr />Endwhile</a>
+    </li>
+    <li>
+      <a id="f61d1af1-4d7f-2e38-ea0d-c93287651490" href="f61d1af1-4d7f-2e38-ea0d-c93287651490.htm">Find<wbr />Matching<wbr />For</a>
+    </li>
+    <li>
+      <a id="4d0b8026-d2c1-ab61-8872-6e749bf72eba" href="4d0b8026-d2c1-ab61-8872-6e749bf72eba.htm">Find<wbr />Matching<wbr />While</a>
+    </li>
+    <li>
+      <a id="57bf4ad6-37ec-bb24-7f32-0834ee43be40" href="57bf4ad6-37ec-bb24-7f32-0834ee43be40.htm">Get<wbr />Program<wbr />Lines</a>
+    </li>
+    <li>
+      <a id="0844cd4d-34c9-b862-9965-66e3cfbf6ef0" href="0844cd4d-34c9-b862-9965-66e3cfbf6ef0.htm">Get<wbr />Variable<wbr />Value</a>
+    </li>
+    <li>
+      <a id="5f1c2982-98bc-c831-eda9-bf9b271dcc24" href="5f1c2982-98bc-c831-eda9-bf9b271dcc24.htm">Initialize<wbr />Component</a>
+    </li>
+    <li>
+      <a id="cedeb20a-ad99-d8bb-4ea8-429761cb6856" href="cedeb20a-ad99-d8bb-4ea8-429761cb6856.htm">Is<wbr />Control<wbr />Flow<wbr />Command</a>
+    </li>
+    <li>
+      <a id="1d4c7e91-fbbe-74d5-d0df-a75f60dd9921" href="1d4c7e91-fbbe-74d5-d0df-a75f60dd9921.htm">load<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item_<wbr />Click</a>
+    </li>
+    <li>
+      <a id="f9b35de5-53ea-c380-f59d-3cc5abde12a4" href="f9b35de5-53ea-c380-f59d-3cc5abde12a4.htm">Log<wbr />Canvas<wbr />State</a>
+    </li>
+    <li>
+      <a id="e47f9e8a-baeb-2616-fdf2-b051d808f8d6" href="e47f9e8a-baeb-2616-fdf2-b051d808f8d6.htm">Log<wbr />Debug</a>
+    </li>
+    <li>
+      <a id="c35c3357-f0c7-51c6-8167-d69cec31cc4b" href="c35c3357-f0c7-51c6-8167-d69cec31cc4b.htm">Log<wbr />Program<wbr />To<wbr />Debug</a>
+    </li>
+    <li>
+      <a id="667df2fb-11db-eca0-c770-196672196655" href="667df2fb-11db-eca0-c770-196672196655.htm">new<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item_<wbr />Click</a>
+    </li>
+    <li>
+      <a id="e2db2e0e-56a0-5f2a-e688-659f64c42092" href="e2db2e0e-56a0-5f2a-e688-659f64c42092.htm">open<wbr />Image<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item_<wbr />Click</a>
+    </li>
+    <li>
+      <a id="0fdf166f-753e-d550-bf75-1e807588911e" href="0fdf166f-753e-d550-bf75-1e807588911e.htm">open<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item_<wbr />Click</a>
+    </li>
+    <li>
+      <a id="e1ca3ad9-25d1-d481-f0ed-4a38b704bf61" href="e1ca3ad9-25d1-d481-f0ed-4a38b704bf61.htm">Preprocess<wbr />Methods</a>
+    </li>
+    <li>
+      <a id="b68b9ed1-e7e6-be50-2dff-7dfd86afddff" href="b68b9ed1-e7e6-be50-2dff-7dfd86afddff.htm">reset<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item_<wbr />Click</a>
+    </li>
+    <li>
+      <a id="13cead46-faa0-4e1e-d69e-12d4154a0a02" href="13cead46-faa0-4e1e-d69e-12d4154a0a02.htm">save<wbr />Image<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item_<wbr />Click</a>
+    </li>
+    <li>
+      <a id="a43845c4-5c73-7983-1b1a-bff9badb12fb" href="a43845c4-5c73-7983-1b1a-bff9badb12fb.htm">save<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item_<wbr />Click</a>
+    </li>
+    <li>
+      <a id="799e99ad-215e-d7da-c250-20737f197d51" href="799e99ad-215e-d7da-c250-20737f197d51.htm">save<wbr />Tool<wbr />Strip<wbr />Menu<wbr />Item<wbr />1_<wbr />Click</a>
+    </li>
+    <li>
+      <a id="fd4ef8da-d6be-1ca5-ab0a-18b1bac40b27" href="fd4ef8da-d6be-1ca5-ab0a-18b1bac40b27.htm">Set<wbr />Variable<wbr />Value</a>
+    </li>
+    <li>
+      <a id="55fb2956-45f3-4b1d-0e72-bc1b5a531a02" href="55fb2956-45f3-4b1d-0e72-bc1b5a531a02.htm">singleline_<wbr />Key<wbr />Down</a>
+    </li>
+    <li>
+      <a id="1d84758a-9560-f66b-32fb-acddd5124611" href="1d84758a-9560-f66b-32fb-acddd5124611.htm">Update<wbr />Picture<wbr />With<wbr />Pointer</a>
+    </li>
+  </tocItems>
+</toc>

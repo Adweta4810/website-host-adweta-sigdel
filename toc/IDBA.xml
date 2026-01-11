@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="94b11f73-4ed8-4bb1-63a0-51045d8f002b.htm">App<wbr />Stored<wbr />Program</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="198311c5-4383-4e40-0fbe-60620a1b22e1" href="198311c5-4383-4e40-0fbe-60620a1b22e1.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="12547ac9-bc1c-66c1-8853-f2d4b94d080d" href="12547ac9-bc1c-66c1-8853-f2d4b94d080d.htm">Properties</a>
+    </li>
+    <li>
+      <a id="105d8820-b27b-953d-3f0f-ea851139cfdc" class="has-submenu" href="105d8820-b27b-953d-3f0f-ea851139cfdc.htm">
+        <span data-tocFile="../toc/IDCBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

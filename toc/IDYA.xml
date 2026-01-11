@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="d71a523b-6cca-9dda-a65b-651bbf3c117b.htm">Program</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b52154cb-d6bd-1fa3-acb5-9aa6a77df7a4" class="has-submenu" href="b52154cb-d6bd-1fa3-acb5-9aa6a77df7a4.htm">
+        <span data-tocFile="../toc/IDAYA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

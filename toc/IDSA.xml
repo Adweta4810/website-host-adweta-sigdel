@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="e20ba206-5517-5daa-55a1-c01b7dab4af0.htm">Method<wbr />Command</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="77cfae3c-22e8-def6-2a3f-a3fc75d5b124" href="77cfae3c-22e8-def6-2a3f-a3fc75d5b124.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="cd56106f-0f6d-a24e-4e2e-c83c866714a2" class="has-submenu" href="cd56106f-0f6d-a24e-4e2e-c83c866714a2.htm">
+        <span data-tocFile="../toc/IDBSA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b78e89f5-b47c-e18c-ec87-91a9ad4017a6" class="has-submenu" href="b78e89f5-b47c-e18c-ec87-91a9ad4017a6.htm">
+        <span data-tocFile="../toc/IDCSA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">Docs</a>
+    </li>
+    <li>
+      <a href="130bd4bb-369f-5e72-f6a1-c09034a24aea.htm">BOOSEApp</a>
+    </li>
+    <li>
+      <a href="80a8a76b-3a79-f527-73be-462c73ab896e.htm">BOOSEApp</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="dfa8753e-8773-5281-d41d-1177858add18" href="dfa8753e-8773-5281-d41d-1177858add18.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="1a976ab8-615a-12cd-61df-c43cc61690fe" class="has-submenu" href="1a976ab8-615a-12cd-61df-c43cc61690fe.htm">
+        <span data-tocFile="../toc/IDBDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="dc238fcf-f4f2-0fe0-3485-4e3832c2493e" class="has-submenu" href="dc238fcf-f4f2-0fe0-3485-4e3832c2493e.htm">
+        <span data-tocFile="../toc/IDCDA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>
