@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2025.12.18.0" projectFile="C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\BOOSEApp.shfbproj" started="1/11/2026 5:45:02 PM">
+<buildStep step="Initializing">
+The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder&#39;
+Locating components in the following folder(s):
+    C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation
+    C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins
+    C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components
+Using framework reflection data for &#39;.NET Framework 4.7.2&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Data\.NETFramework&#39;
+Using presentation style &#39;Default2022&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022&#39;
+Loading and initializing plug-ins...
+Website Table of Contents Generator Version 2025.12.18.0
+Copyright &#169; 2006-2025, Eric Woodruff, All Rights Reserved
+</buildStep>
+<buildStep step="ClearWorkFolder">
+Clearing working folder...
+-------------------------------
+Clearing any prior web/markdown output...
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\bin\Debug\net8.0-windows\BOOSEApp.xml
+Source: C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\bin\Debug\net8.0-windows\BOOSEApp.dll
+    Found assembly &#39;C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\bin\Debug\net8.0-windows\BOOSEApp.dll&#39;
+
+References to include:
+    BOOSE
+
+Copying XML comments files
+    C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\bin\Debug\net8.0-windows\BOOSEApp.xml -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\BOOSEApp.xml
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (en-US, English (United States))...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00.0123
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateRefInfo-2209a626-2294-4764-a3f7-3eaeda67afa9.proj]
+Build started 1/11/2026 5:45:03 PM.
+
+Project &quot;C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\GenerateRefInfo-2209a626-2294-4764-a3f7-3eaeda67afa9.proj&quot; on node 1 (default targets).
+PrepareForBuild:
+  Creating directory &quot;obj\Debug\&quot;.
+GenerateRefInfo:
+  Microsoft.Build (v17.14.23+b0019275ecd6d49bb192b2e055849e25419f1010)
+  c Microsoft Corporation. All rights reserved.
+  No source code context base path specified.  Source context information is unavailable.
+  Loaded 1 assemblies for reflection and 104 dependency assemblies.
+  Using framework redirect &#39;System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089&#39; in place of &#39;System.Windows.Forms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089&#39;
+  Using framework redirect &#39;System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089&#39; in place of &#39;System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089&#39;
+MRefBuilder : warning : Ignoring unresolved assembly reference: System.Drawing.Common (System.Drawing.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51) required by BOOSEApp [C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\GenerateRefInfo-2209a626-2294-4764-a3f7-3eaeda67afa9.proj]
+  Using automatic redirect &#39;System.Drawing.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39; in place of &#39;System.Drawing.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39;
+  Using automatic redirect &#39;System.Collections, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39; in place of &#39;System.Collections, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39;
+  Using automatic redirect &#39;System.ComponentModel.Primitives, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39; in place of &#39;System.ComponentModel.Primitives, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39;
+  Using automatic redirect &#39;System.Collections.NonGeneric, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39; in place of &#39;System.Collections.NonGeneric, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39;
+  Using framework redirect &#39;System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39; in place of &#39;System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39;
+  Using framework redirect &#39;Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39; in place of &#39;Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39;
+  Wrote information on 1 namespaces, 30 types, and 378 members
+  Merging duplicate type and member information
+  Merged 0 duplicate type(s) and 0 duplicate member(s)
+Done Building Project &quot;C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\GenerateRefInfo-2209a626-2294-4764-a3f7-3eaeda67afa9.proj&quot; (default targets).
+    Last step completed in 00:00:01.4038
+</buildStep>
+<buildStep step="ApplyDocumentModel">
+Applying document model to reflection output...
+    Last step completed in 00:00:00.0847
+</buildStep>
+<buildStep step="AddApiTopicFilenames">
+Adding topic filenames to API members...
+    Last step completed in 00:00:00.0792
+</buildStep>
+<buildStep step="GenerateApiTopicManifest">
+Generating API topic manifest...
+    Last step completed in 00:00:00.1006
+</buildStep>
+<buildStep step="GenerateNamespaceSummaries">
+Generating namespace summary information...
+    Last step completed in 00:00:00.0124
+</buildStep>
+<buildStep step="CopyAdditionalContent">
+Copying additional content files...
+No additional content to copy
+    Last step completed in 00:00:00.0015
+</buildStep>
+<buildStep step="MergeTablesOfContents">
+Merging conceptual and additional tables of contents...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateIntermediateTableOfContents">
+Generating intermediate table of contents file for API content...
+Generating conceptual content intermediate TOC file...
+    Last step completed in 00:00:00.0436
+</buildStep>
+<buildStep step="CreateBuildAssemblerConfigs">
+Creating Sandcastle configuration files...
+    Last step completed in 00:00:00.2699
+</buildStep>
+<buildStep step="CombiningIntermediateTocFiles">
+Combining conceptual and API intermediate TOC files...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="MergeCustomConfigs">
+Merging custom build component configurations
+C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\BuildAssembler.config
+  Updating reference topic configurations.
+  No conceptual content.  Removing conceptual content components.
+    Last step completed in 00:00:00.0355
+</buildStep>
+<buildStep step="BuildTopics">
+Building help topics...
+<plugIn name="Website Table of Contents Generator" behavior="Before" priority="1000">
+Loading TOC info and adding unique IDs to parent nodes
+</plugIn>Loading configuration...
+Processing topics...
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [N:BOOSEApp] Unknown reference link target &#39;T:BOOSE.CommandFactory&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppCanvas] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.AppCanvas.Circle(System.Int32,System.Boolean)] Unknown reference link target &#39;M:BOOSE.ICanvas.Circle(System.Int32,System.Boolean)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.AppCanvas.Clear] Unknown reference link target &#39;M:BOOSE.ICanvas.Clear&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.AppCanvas.DrawTo(System.Int32,System.Int32)] Unknown reference link target &#39;M:BOOSE.ICanvas.DrawTo(System.Int32,System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.AppCanvas.getBitmap] Unknown reference link target &#39;M:BOOSE.ICanvas.getBitmap&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.AppCanvas.MoveTo(System.Int32,System.Int32)] Unknown reference link target &#39;M:BOOSE.ICanvas.MoveTo(System.Int32,System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [P:BOOSEApp.AppCanvas.PenColour] Unknown reference link target &#39;P:BOOSE.ICanvas.PenColour&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)] Unknown reference link target &#39;M:BOOSE.ICanvas.Rect(System.Int32,System.Int32,System.Boolean)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.AppCanvas.Reset] Unknown reference link target &#39;M:BOOSE.ICanvas.Reset&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.AppCanvas.Set(System.Int32,System.Int32)] Unknown reference link target &#39;M:BOOSE.ICanvas.Set(System.Int32,System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)] Unknown reference link target &#39;M:BOOSE.ICanvas.SetColour(System.Int32,System.Int32,System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.AppCanvas.Tri(System.Int32,System.Int32)] Unknown reference link target &#39;M:BOOSE.ICanvas.Tri(System.Int32,System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.AppCanvas.WriteText(System.String)] Unknown reference link target &#39;M:BOOSE.ICanvas.WriteText(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [P:BOOSEApp.AppCanvas.Xpos] Unknown reference link target &#39;P:BOOSE.ICanvas.Xpos&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [P:BOOSEApp.AppCanvas.Ypos] Unknown reference link target &#39;P:BOOSE.ICanvas.Ypos&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;P:BOOSE.StoredProgram.PC&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.Add(BOOSE.Command)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.AddMethod(BOOSE.Method)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.AddVariable(BOOSE.Evaluation)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.Commandsleft&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.DeleteVariable(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.EvaluateExpression(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.EvaluateExpressionWithString(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.FindVariable(BOOSE.Evaluation)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.FindVariable(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.GetMethod(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.GetVariable(System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.GetVariable(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.GetVarValue(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.IsExpression(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.IsValidProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.NextCommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.Pop&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.Push(BOOSE.ConditionalCommand)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.ResetProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.Run&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.SetSyntaxStatus(System.Boolean)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.UpdateVariable(System.String,System.Boolean)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.UpdateVariable(System.String,System.Double)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.UpdateVariable(System.String,System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.VariableExists(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.Add(BOOSE.Command)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.AddMethod(BOOSE.Method)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.AddVariable(BOOSE.Evaluation)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.Commandsleft&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.DeleteVariable(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.EvaluateExpression(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.EvaluateExpressionWithString(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.FindVariable(BOOSE.Evaluation)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.FindVariable(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.GetMethod(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.GetVariable(System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.GetVariable(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.GetVarValue(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.IsExpression(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.IsValidProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.NextCommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.Pop&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.Push(BOOSE.ConditionalCommand)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.ResetProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.Run&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.SetSyntaxStatus(System.Boolean)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.UpdateVariable(System.String,System.Boolean)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.UpdateVariable(System.String,System.Double)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.UpdateVariable(System.String,System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;M:BOOSE.StoredProgram.VariableExists(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;P:BOOSE.StoredProgram.PC&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.AppStoredProgram] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.AppStoredProgram.#ctor(BOOSE.ICanvas)] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.AppStoredProgram.ExecuteCommandsWithConditionals(System.Collections.Generic.List{BOOSE.ICommand})] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.AppStoredProgram.IsControlFlowCommand(BOOSE.ICommand)] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.AppStoredProgram.Run] Unknown reference link target &#39;M:BOOSE.IStoredProgram.Run&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Array.Columns&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Evaluation.Expression&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Evaluation.Local&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Command.Name&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Command.ParameterList&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Command.Parameters&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Command.Paramsint&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Command.Program&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Array.Rows&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Evaluation.Value&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Evaluation.VarName&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.ArrayRestrictions&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.Execute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.GetIntArray(System.Int32,System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.GetRealArray(System.Int32,System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.ProcessArrayParametersCompile(System.Boolean)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.ProcessArrayParametersExecute(System.Boolean)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Evaluation.ProcessExpression(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Command.ProcessParameters(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Command.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.SetIntArray(System.Int32,System.Int32,System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.SetRealArray(System.Double,System.Int32,System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Command.ToString&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.column&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.columns&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.columnS&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Evaluation.evaluatedExpression&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Evaluation.expression&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.intArray&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Command.IsDouble&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Command.parameterList&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Command.parameters&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Command.paramsint&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.peekVar&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.pokeValue&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Command.program&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.realArray&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.row&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.rows&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.rowS&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.type&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Evaluation.value&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.valueInt&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.valueReal&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Evaluation.varName&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.ArrayRestrictions&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.Execute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.GetIntArray(System.Int32,System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.GetRealArray(System.Int32,System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.ProcessArrayParametersCompile(System.Boolean)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.ProcessArrayParametersExecute(System.Boolean)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Evaluation.ProcessExpression(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Command.ProcessParameters(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Command.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.SetIntArray(System.Int32,System.Int32,System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Array.SetRealArray(System.Double,System.Int32,System.Int32)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;M:BOOSE.Command.ToString&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Array.Columns&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Evaluation.Expression&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Evaluation.Local&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Command.Name&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Command.ParameterList&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Command.Parameters&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Command.Paramsint&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Command.Program&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Array.Rows&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Evaluation.Value&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;P:BOOSE.Evaluation.VarName&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Properties.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.column&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.columns&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.columnS&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Evaluation.evaluatedExpression&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Evaluation.expression&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.intArray&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Command.IsDouble&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Command.parameterList&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Command.parameters&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Command.paramsint&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.peekVar&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.pokeValue&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Command.program&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Command&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.realArray&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.row&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.rows&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.rowS&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.type&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Evaluation.value&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.valueInt&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Array.valueReal&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Array&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;F:BOOSE.Evaluation.varName&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Fields.T:BOOSEApp.ArrayCommand] Unknown reference link target &#39;T:BOOSE.Evaluation&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.ArrayCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ArrayCommand.CheckParameters(System.String[])] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ArrayCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ArrayCommand.Compile] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ArrayCommand.EvaluateDimension(System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ArrayCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ArrayCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ArrayCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ArrayCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp._forLoopContexts] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.aboutToolStripMenuItem] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.aboutToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.aboutToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;sender&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.aboutToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.aboutToolStripMenuItem_Click_1(System.Object,System.EventArgs)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.aboutToolStripMenuItem_Click_1(System.Object,System.EventArgs)] Missing &lt;param name=&quot;sender&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.aboutToolStripMenuItem_Click_1(System.Object,System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.BOOSEApp_Load(System.Object,System.EventArgs)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.BOOSEApp_Load(System.Object,System.EventArgs)] Missing &lt;param name=&quot;sender&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.BOOSEApp_Load(System.Object,System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.btn_Check] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.btn_Check_Click(System.Object,System.EventArgs)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.btn_Check_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;sender&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.btn_Check_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.btn_run] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.clearToolStripMenuItem] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.clearToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.clearToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;sender&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.clearToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.debugWindow] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.editToolStripMenuItem] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.EvaluateCondition(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.EvaluateCondition(System.String)] Missing &lt;param name=&quot;condition&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.EvaluateExpression(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.EvaluateExpression(System.String)] Missing &lt;param name=&quot;expression&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.EvaluateForExpression(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.EvaluateForExpression(System.String)] Missing &lt;param name=&quot;expression&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.EvaluateMethodArgument(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.EvaluateMethodArgument(System.String)] Missing &lt;param name=&quot;argument&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.ExecuteMethod(BOOSEApp.MethodDefinition,System.Collections.Generic.List{System.String},System.String[])] Missing &lt;param name=&quot;methodDef&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.ExecuteMethod(BOOSEApp.MethodDefinition,System.Collections.Generic.List{System.String},System.String[])] Missing &lt;param name=&quot;arguments&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.ExecuteMethod(BOOSEApp.MethodDefinition,System.Collections.Generic.List{System.String},System.String[])] Missing &lt;param name=&quot;lines&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.ExecuteProgramWithLoops(System.String[])] Missing &lt;param name=&quot;lines&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.exitToolStripMenuItem] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.exitToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.exitToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;sender&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.exitToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.fileToolStripMenuItem] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.FindMatchingEndFor(System.String[],System.Int32)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.FindMatchingEndFor(System.String[],System.Int32)] Missing &lt;param name=&quot;lines&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.FindMatchingEndFor(System.String[],System.Int32)] Missing &lt;param name=&quot;forIndex&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.FindMatchingEndMethod(System.String[],System.Int32)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.FindMatchingEndMethod(System.String[],System.Int32)] Missing &lt;param name=&quot;lines&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.FindMatchingEndMethod(System.String[],System.Int32)] Missing &lt;param name=&quot;methodIndex&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.FindMatchingEndwhile(System.String[],System.Int32)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.FindMatchingEndwhile(System.String[],System.Int32)] Missing &lt;param name=&quot;lines&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.FindMatchingEndwhile(System.String[],System.Int32)] Missing &lt;param name=&quot;whileIndex&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.FindMatchingFor(System.String[],System.Int32)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.FindMatchingFor(System.String[],System.Int32)] Missing &lt;param name=&quot;lines&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.FindMatchingFor(System.String[],System.Int32)] Missing &lt;param name=&quot;endforIndex&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.FindMatchingWhile(System.String[],System.Int32)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.FindMatchingWhile(System.String[],System.Int32)] Missing &lt;param name=&quot;lines&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.FindMatchingWhile(System.String[],System.Int32)] Missing &lt;param name=&quot;endwhileIndex&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.GetVariableValue(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.GetVariableValue(System.String)] Missing &lt;param name=&quot;varName&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.helpToolStripMenuItem] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.IsControlFlowCommand(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.IsControlFlowCommand(System.String)] Missing &lt;param name=&quot;cmdName&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.label1] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.label2] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.loadToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;sender&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.loadToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.menuStrip1] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.multiLineCode] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.newToolStripMenuItem] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.newToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.newToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;sender&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.newToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.openImageToolStripMenuItem] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.openImageToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.openImageToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;sender&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.openImageToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.openToolStripMenuItem] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.openToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.openToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;sender&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.openToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.BOOSEApp.Parser] Unknown reference link target &#39;T:BOOSE.IParser&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.pictureBoxCanvas] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.PreprocessMethods(System.String[])] Missing &lt;param name=&quot;lines&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.resetToolStripMenuItem] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.resetToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.resetToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;sender&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.resetToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.saveImageToolStripMenuItem] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.saveImageToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.saveImageToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;sender&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.saveImageToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.saveToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;sender&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.saveToolStripMenuItem_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.saveToolStripMenuItem1] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.saveToolStripMenuItem1_Click(System.Object,System.EventArgs)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.saveToolStripMenuItem1_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;sender&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.saveToolStripMenuItem1_Click(System.Object,System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.SetVariableValue(System.String,System.String)] Missing &lt;param name=&quot;varName&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.BOOSEApp.SetVariableValue(System.String,System.String)] Missing &lt;param name=&quot;value&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.singleline] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.splitContainer1] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.tableLayoutPanel1] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.tableLayoutPanel2] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.ForLoopContext.EndExpr] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.ForLoopContext.LoopVariable] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.BOOSEApp.ForLoopContext.StepExpr] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.CallMethodCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.CallMethodCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.CallMethodCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.CallMethodCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.CallMethodCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.CallMethodCommand.GetArguments] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.CallMethodCommand.GetMethodName] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.CallMethodCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.CallMethodCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.CircleCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.CircleCommand.#ctor(BOOSE.ICanvas)] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.CircleCommand._canvas] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.CircleCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.CircleCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.CircleCommand.CheckParameters(System.String[])] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.CircleCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.CircleCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.CircleCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.CircleCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.CircleCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.CircleCommand.ValidateRadius] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.Clear] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.Clear.#ctor(BOOSE.ICanvas)] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.Clear._canvas] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.Clear.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.Clear.CheckParameters(System.String[])] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.Clear.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.Clear.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.Clear.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.Clear.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.Clear.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ElseCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.ElseCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ElseCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ElseCommand.CheckParameters(System.String[])] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ElseCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ElseCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ElseCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ElseCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ElseCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.EndForCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.EndForCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndForCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndForCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndForCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndForCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndForCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.EndIfCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.EndIfCommand._delegatedCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.EndIfCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndIfCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndIfCommand.CheckParameters(System.String[])] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndIfCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndIfCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndIfCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndIfCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndIfCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.EndMethodCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.EndMethodCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndMethodCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndMethodCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndMethodCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndMethodCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndMethodCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.EndWhileCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.EndWhileCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndWhileCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndWhileCommand.CheckParameters(System.String[])] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndWhileCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndWhileCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.EndWhileCommand.GetEndWhileIndex] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.EndWhileCommand.GetWhileIndex] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndWhileCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndWhileCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.EndWhileCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.EndWhileCommand.SetEndWhileIndex(System.Int32)] Missing &lt;param name=&quot;index&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.EndWhileCommand.SetWhileIndex(System.Int32)] Missing &lt;param name=&quot;index&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.ForCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.ForCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ForCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ForCommand.CheckParameters(System.String[])] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ForCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ForCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.ForCommand.GetEndExpr] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.ForCommand.GetLoopVariable] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.ForCommand.GetStepExpr] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ForCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.ForCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [T:BOOSEApp.IfCommand] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.IfCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.IfCommand._condition] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.IfCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IfCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IfCommand.CheckParameters(System.String[])] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IfCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.IfCommand.EvaluateCondition(System.String)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.IfCommand.EvaluateCondition(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.IfCommand.EvaluateCondition(System.String)] Missing &lt;param name=&quot;condition&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IfCommand.EvaluateExpression(System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IfCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IfCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IfCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IfCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.IntCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.IntCommand] Unknown reference link target &#39;T:BOOSE.RestrictionException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.IntCommand] Unknown reference link target &#39;T:BOOSE.RestrictionException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.IntCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IntCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IntCommand.CheckParameters(System.String[])] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IntCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IntCommand.EvaluateArithmeticExpression(System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IntCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IntCommand.Restrictions] Unknown reference link target &#39;T:BOOSE.RestrictionException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IntCommand.Restrictions] Unknown reference link target &#39;T:BOOSE.RestrictionException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IntCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IntCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.IntCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.MethodCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.MethodCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MethodCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MethodCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MethodCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.MethodCommand.GetMethodDefinition] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MethodCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MethodCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.MethodDefinition.#ctor(System.String,System.String)] Missing &lt;param name=&quot;methodName&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.MethodDefinition.#ctor(System.String,System.String)] Missing &lt;param name=&quot;returnType&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.MoveToCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MoveToCommand.#ctor(BOOSE.ICanvas)] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.MoveToCommand._canvas] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.MoveToCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MoveToCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MoveToCommand.CheckParameters(System.String[])] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MoveToCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MoveToCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MoveToCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MoveToCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MoveToCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MoveToCommand.ValidateCoordinates] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.MyCommandFactory] Unknown reference link target &#39;T:BOOSE.CommandFactory&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.MyCommandFactory] Unknown reference link target &#39;T:BOOSE.CommandFactory&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.MyCommandFactory] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.MyCommandFactory] Unknown reference link target &#39;M:BOOSE.CommandFactory.MakeCommand(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.MyCommandFactory] Unknown reference link target &#39;M:BOOSE.CommandFactory.MakeCommand(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MyCommandFactory.#ctor(BOOSE.ICanvas)] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.MyCommandFactory._canvas] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MyCommandFactory.Instance(BOOSE.ICanvas)] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MyCommandFactory.MakeCommand(System.String)] Unknown reference link target &#39;T:BOOSE.CommandFactory&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MyCommandFactory.MakeCommand(System.String)] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MyCommandFactory.MakeCommand(System.String)] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MyCommandFactory.MakeCommand(System.String)] Unknown reference link target &#39;M:BOOSE.ICommandFactory.MakeCommand(System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.MyCommandFactory.MakeCommand(System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.PeekCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.PeekCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PeekCommand.CheckParameters(System.String[])] Missing &lt;param name=&quot;parameters&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.PeekCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PeekCommand.Compile] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.PeekCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PeekCommand.EvaluateExpression(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PeekCommand.EvaluateExpression(System.String)] Missing &lt;param name=&quot;expression&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PeekCommand.Execute] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.PeekCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PeekCommand.Set(BOOSE.StoredProgram,System.String)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PeekCommand.Set(BOOSE.StoredProgram,System.String)] Missing &lt;param name=&quot;program&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PeekCommand.Set(BOOSE.StoredProgram,System.String)] Missing &lt;param name=&quot;Params&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.PeekCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.PeekCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.PokeCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.PokeCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PokeCommand.CheckParameters(System.String[])] Missing &lt;param name=&quot;parameters&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.PokeCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PokeCommand.Compile] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.PokeCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PokeCommand.EvaluateDoubleExpression(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PokeCommand.EvaluateDoubleExpression(System.String)] Missing &lt;param name=&quot;expression&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PokeCommand.EvaluateExpression(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PokeCommand.EvaluateExpression(System.String)] Missing &lt;param name=&quot;expression&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PokeCommand.Execute] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.PokeCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PokeCommand.Set(BOOSE.StoredProgram,System.String)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PokeCommand.Set(BOOSE.StoredProgram,System.String)] Missing &lt;param name=&quot;program&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.PokeCommand.Set(BOOSE.StoredProgram,System.String)] Missing &lt;param name=&quot;Params&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.PokeCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.PokeCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [T:BOOSEApp.Program] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.RealCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.RealCommand] Unknown reference link target &#39;T:BOOSE.RestrictionException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [Methods.T:BOOSEApp.RealCommand] Unknown reference link target &#39;T:BOOSE.RestrictionException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.RealCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RealCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RealCommand.CheckParameters(System.String[])] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RealCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RealCommand.EvaluateArithmeticExpression(System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RealCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RealCommand.Restrictions] Unknown reference link target &#39;T:BOOSE.RestrictionException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RealCommand.Restrictions] Unknown reference link target &#39;T:BOOSE.RestrictionException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RealCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RealCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RealCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.RectangleCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RectangleCommand.#ctor(BOOSE.ICanvas)] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.RectangleCommand._canvas] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.RectangleCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RectangleCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RectangleCommand.CheckParameters(System.String[])] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RectangleCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RectangleCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RectangleCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RectangleCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RectangleCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.RectangleCommand.ValidateDimensions] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.Reset] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.Reset.#ctor(BOOSE.ICanvas)] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.Reset._canvas] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.Reset._canvas] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.Reset.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.Reset.CheckParameters(System.String[])] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.Reset.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.Reset.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.Reset.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.Reset.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.Reset.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.WhileCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [F:BOOSEApp.WhileCommand._condition] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.WhileCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WhileCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WhileCommand.CheckParameters(System.String[])] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WhileCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.WhileCommand.EvaluateCondition(System.String)] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.WhileCommand.EvaluateCondition(System.String)] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.WhileCommand.EvaluateCondition(System.String)] Missing &lt;param name=&quot;condition&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WhileCommand.EvaluateExpression(System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WhileCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.WhileCommand.GetCondition] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.WhileCommand.GetEndWhileIndex] Missing &lt;returns&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WhileCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WhileCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WhileCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.WhileCommand.SetEndWhileIndex(System.Int32)] Missing &lt;param name=&quot;index&quot;/&gt; documentation
+SHFB: Warning BE0066: ShowMissingComponent: [M:BOOSEApp.WhileCommand.SetWhileIndex(System.Int32)] Missing &lt;param name=&quot;index&quot;/&gt; documentation
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [T:BOOSEApp.WriteCommand] Unknown reference link target &#39;T:BOOSE.ICommand&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WriteCommand.#ctor(BOOSE.ICanvas)] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.WriteCommand._canvas] Unknown reference link target &#39;T:BOOSE.ICanvas&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [F:BOOSEApp.WriteCommand._program] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WriteCommand.CheckParameters(System.String[])] Unknown reference link target &#39;M:BOOSE.ICommand.CheckParameters(System.String[])&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WriteCommand.CheckParameters(System.String[])] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WriteCommand.Compile] Unknown reference link target &#39;M:BOOSE.ICommand.Compile&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WriteCommand.EvaluateExpression(System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WriteCommand.Execute] Unknown reference link target &#39;M:BOOSE.ICommand.Execute&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WriteCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.StoredProgram&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WriteCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;M:BOOSE.ICommand.Set(BOOSE.StoredProgram,System.String)&#39;.
+SHFB: Warning BE0066: ResolveReferenceLinksComponent: [M:BOOSEApp.WriteCommand.Set(BOOSE.StoredProgram,System.String)] Unknown reference link target &#39;T:BOOSE.CommandException&#39;.
+Processed 473 topic(s)
+660 warning(s)
+CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 6 of 15.
+CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 1 of 30.
+<plugIn name="Website Table of Contents Generator" behavior="After" priority="1000">
+Generating TOC fragment files
+</plugIn>    Last step completed in 00:00:11.2775
+</buildStep>
+<buildStep step="CopyStandardHelpContent">
+Copying standard help content...
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\bulma.css -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\css\bulma.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\bulma.css.map -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\css\bulma.css.map
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\bulma.min.css -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\css\bulma.min.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\font-awesome.css -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\css\font-awesome.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\font-awesome.min.css -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\css\font-awesome.min.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\ja-JP.css -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\css\ja-JP.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\ko-KR.css -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\css\ko-KR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\presentationStyle.css -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\css\presentationStyle.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\vs.min.css -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\css\vs.min.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\zh-CN.css -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\css\zh-CN.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\zh-TW.css -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\css\zh-TW.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\icons\favicon.ico -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\icons\favicon.ico
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\scripts\clipboard.min.js -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\scripts\clipboard.min.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\scripts\highlight.min.js -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\scripts\highlight.min.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\scripts\jquery-3.5.1.min.js -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\scripts\jquery-3.5.1.min.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\scripts\presentationStyle.js -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\scripts\presentationStyle.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-brands-400.ttf -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\webfonts\fa-brands-400.ttf
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-brands-400.woff2 -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\webfonts\fa-brands-400.woff2
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-regular-400.ttf -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\webfonts\fa-regular-400.ttf
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-regular-400.woff2 -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\webfonts\fa-regular-400.woff2
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-solid-900.ttf -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\webfonts\fa-solid-900.ttf
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-solid-900.woff2 -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\webfonts\fa-solid-900.woff2
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-v4compatibility.ttf -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\webfonts\fa-v4compatibility.ttf
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-v4compatibility.woff2 -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\webfonts\fa-v4compatibility.woff2
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\GeneralError.html -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\GeneralError.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\index.html -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\index.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\PageNotFound.html -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\PageNotFound.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\search.html -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\search.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.aspx -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\SearchHelp.aspx
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.inc.php -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\SearchHelp.inc.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.php -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\SearchHelp.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\Web.Config -&gt; C:\Users\adwet\ase-boose-assignment-Adweta4810\BOOSEApp\Documentation\Help\Working\Output\Website\Web.Config
+    Last step completed in 00:00:00.3725
+</buildStep>
+<buildStep step="GenerateFullTextIndex">
+Generating full-text index for the website...
+
+    Last step completed in 00:00:00.3452
+</buildStep>
+<buildStep step="CopyingWebsiteFiles">
+Copying website files to output folder...
+
+Copied 500 files
+Copied 630 files for the website content
+    Last step completed in 00:00:01.2073
+</buildStep>
+<buildStep step="CleanIntermediates">
+Removing intermediate files...
+    Last step completed in 00:00:00.3233
+</buildStep>
+<buildStep step="Completed">
+
+Build completed successfully at 1/11/2026 5:45:18 PM.  Total time: 00:00:16.2054
+
+</buildStep>
+</shfbBuild>
